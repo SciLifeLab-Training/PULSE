@@ -16,12 +16,12 @@ website:
     search: true
     contents: 
       - index.qmd 
-      - schedule.qmd
-      - instructors.qmd
-      - module1.qmd
-      - module2.qmd
+#      - schedule.qmd
+#      - instructors.qmd
+#      - module1.qmd
+#      - module2.qmd
   navbar:
-    background: "#A7C947"
+    background: "#045c64"
     logo: "img/SciLifeLab_Logotype_NEG.png"
   favicon: "img/SciLifeLab_Logotype_NEG.png"
 

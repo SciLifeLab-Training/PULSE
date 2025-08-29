@@ -1,60 +1,39 @@
 ---
-title: "Course Syllabus"
-author: "Niklas Taffelby"
+title: "SciLifeLab PULSE Training"
+author: "PULSE Training & Career Development Committee"
 date: today
 ---
 
 ::: {.callout-warning icon=false}
 
-## About
+## Not just another postdoctoral program
 
-**Organizers:** 	                SciLifeLab  
-**Date:**	   	                    Month, date, year  
-**Location:**		 			    SciLifeLab Solna, Air&Fire  
-**Suggested number of credits:** 	X hp  
-**Enrollment opens:**				Month day, year  
-**Enrollment closes:**				Month day, year     
-**Course fee:**				        XX   
+PULSE has been specifically designed to connect early-career researchers with opportunities and skills that support long-term career sustainability across sectors. To meet this goal, the PULSE training program has been developed using the [European Competency Framework for Researchers (ResearchComp)](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en). As such, being or hosting a PULSE postdoc has specific requirements that differ from some traditional postdoctoral training programs.
+
+>By the end of the PULSE program, all PULSE postdocs are expected to be able to demonstrate foundational to intermediate competencies in all ResearchComp areas, and advanced to expert competencies in at least one competency area of interest.
+
+This website provides updated information as the PULSE Training program is deployed, and is intended primarily for PULSE postdoctoral fellows, but also for their group leaders, the PULSE consortium, and anyone who would like to follow the training!
 
 :::
 
-Course lead: John Doe (SciLifeLab) <a href="https://orcid.org/0000-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
 
-Course contact: john.doe@scilifelab.se
+The PULSE Training & Career Development Committee can be reached at pulse.training@scilifelab.se
 
-## Course description
+## Current status
 
-Short description of the course
+Welcome!
 
-## Learning Objectives and Learning Outcomes
-#### Learning Objectives
+We are looking forward to welcoming the incoming cohort 1 of PULSE postdocs.
 
-- To get acquainted with...
-- To be able to...
-
-#### Learning Outcomes
-
-By the end of this course, learners will be able to:
-
-- Name...
-- Describe...
-
-## Target audience and course prerequisites
-
-**Target audience:** XXX    
-**Course prerequisites:** none   
-**Level:** beginner/intermediate  
+More information on the training program is forthcoming.
 
 
-## Forms of instruction and examination  
+## Important Dates 
 
-**Forms of instruction:** In-person, digital communications  
-**Forms of study:** self-studies (incl. independent work), group activities, lectures, and discussion seminars  
-**Language:** English    
-**Examination:** Active participation in all sessions and group assignments.   
+| Date | Event |
+|----|----|
+| October 22, 2025 | PULSE Kickoff - Online |
+| December 15, 2025 | Deadline to submit first PCDP report |
+| March 10-13, 2026 | PULSE Annual Meeting - Uppsala |
+: {tbl-colwidths="[30,70]"}
 
-
-
-## Additional notes  
-
-- Other useful information  
