@@ -1,6 +1,6 @@
-title: Name of course
+title: SciLifeLab PULSE Training
 description: SciLifeLab Course
-repository: SciLifeLab-Training/scilifelab-training-template
+repository: SciLifeLab-Training/PULSE
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
