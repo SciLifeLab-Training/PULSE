@@ -1,0 +1,26 @@
+---
+title: "Schedule"
+author: "December Snow"
+date: today
+---
+
+<br>
+
+##### Date
+
+| Time | Session |
+|------|------|
+| 09:00 - 10:15 | [Module 1](module1.qmd) |
+| 10:15 - 10:45 | Coffee break |
+| 10:45 - 12:00 | [Module 2](module2.qmd) |
+| 12:00 - 13:00 | Lunch |
+: {tbl-colwidths="[25,75]"} 
+
+<br/>
+     
+##### Date    
+
+| Time | Topic |
+|------|------|
+| 09:00 - 12:00 | Discussion session |
+: {tbl-colwidths="[25,75]"} 

@@ -1,0 +1,126 @@
+name: build
+on:
+  push:
+    branches:
+      - main
+      - release-*
+
+jobs:
+  quarto-render-job:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+    concurrency:
+      group: deploy-gh-pages
+      cancel-in-progress: true
+  
+    steps:
+      - name: Set time zone  
+        uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: "Europe/Stockholm"
+          timezoneMacos: "Europe/Stockholm"
+          timezoneWindows: "W. Europe Standard Time"
+
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Define variables
+        run: |
+          echo "PATH_REPO=$(pwd)" >> $GITHUB_ENV
+          echo "PATH_EXPORT=$(grep -E 'output-dir' _quarto.yml | xargs | sed 's/output-dir://' | xargs)" >> $GITHUB_ENV
+          echo "REPO=$(basename ${GITHUB_REPOSITORY})" >> $GITHUB_ENV
+
+      - name: Install yq
+        run: |
+          sudo wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/local/bin/yq
+          sudo chmod +x /usr/local/bin/yq
+
+      - name: Parse branch configurations
+        id: parse-config
+        run: |
+          BRANCHES=$(yq eval '.branches | length' _quarto.yml)
+          echo "Found $BRANCHES branch mappings in _quarto.yml"
+          echo "BRANCHES_COUNT=$BRANCHES" >> $GITHUB_ENV
+          for ((i=0; i<$BRANCHES; i++))
+          do
+            BRANCH=$(yq eval ".branches[$i].branch" _quarto.yml)
+            OUTPUT_DIR=$(yq eval ".branches[$i].output-dir" _quarto.yml)
+            echo "BRANCH_$i=$BRANCH" >> $GITHUB_ENV
+            echo "OUTPUT_DIR_$i=$OUTPUT_DIR" >> $GITHUB_ENV
+          done
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.3.340
+
+      - name: Render and deploy for each branch
+        run: |
+          # Add git info
+          git config --global user.email "do_not_email@example.com"
+          git config --global user.name "gh_action"
+          git config --global url."https://${{ secrets.ORG_PAT }}@github.com/".insteadOf "https://github.com/"
+
+          for ((i=0; i<${{ env.BRANCHES_COUNT }}; i++))
+          do
+            BRANCH=$(printenv BRANCH_$i)
+            OUTPUT_DIR=$(printenv OUTPUT_DIR_$i)
+
+            echo "Processing branch: $BRANCH -> Output directory: $OUTPUT_DIR"
+
+            # Checkout the specific branch
+            git fetch origin $BRANCH
+            git checkout $BRANCH
+
+            # Render site
+            echo "Rendering site for branch $BRANCH..."
+            quarto render
+
+            # Clone gh-pages branch and deploy
+            echo "Cloning gh-pages branch into tmprepo..."
+            git clone --depth 1 --single-branch --branch gh-pages "https://${{ secrets.ORG_PAT }}@github.com/${GITHUB_REPOSITORY}.git" tmprepo
+
+            cd tmprepo
+            if [ -d $OUTPUT_DIR ]; then
+              echo "Directory $OUTPUT_DIR already exists. Removing it."
+              git rm -r $OUTPUT_DIR
+              git commit -m "Remove old directory $OUTPUT_DIR"
+            fi
+
+            # Copy rendered content from _site to the specified directory
+            mkdir -p $OUTPUT_DIR
+            cp -r ../_site/* $OUTPUT_DIR/
+
+            # Create or update index file
+            echo "Updating index file..."
+            printf "The current and all previous instances of this workshop are listed below.\n" > index.md
+            printf "<hr>\n" >> index.md
+            printf "<div class='workshop-list'>\n" >> index.md
+            dirs=$(ls -d [0-9]*[0-9]/ | sed 's/\///' | tac | sort -n)
+            
+            for dir in ${dirs[@]}
+            do
+              if [ ${dir:2:2} -lt 1 ] || [ ${dir:2:2} -gt 12 ]
+                then echo "Month: ${dir:2:2}. Last 2 values in output_dir must be a month between 01 and 12."
+              fi
+              # This code works for year 2000 and later
+              printf -v thedate '2000-01-01 +%s years +%s months -1 day' "${dir:0:2}" "${dir:2}"
+              dt=$(date -d "$thedate" +'%Y %b')
+              echo $dt
+
+              printf "<h3><a href='https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO}/${dir}/'>$dt</a></h3>" >> index.md
+            done
+            printf "</div>\n" >> index.md
+
+            # Push changes back to gh-pages
+            echo "Pushing changes to gh-pages..."
+            git add .
+            git commit -m "Update site for $BRANCH to $OUTPUT_DIR at $(date +%Y%m%d-%H%M%S)"
+            git push origin gh-pages
+
+            cd ..
+            rm -rf tmprepo
+          done

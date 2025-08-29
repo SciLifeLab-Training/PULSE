@@ -1,0 +1,60 @@
+---
+title: "Course Syllabus"
+author: "Niklas Taffelby"
+date: today
+---
+
+::: {.callout-warning icon=false}
+
+## About
+
+**Organizers:** 	                SciLifeLab  
+**Date:**	   	                    Month, date, year  
+**Location:**		 			    SciLifeLab Solna, Air&Fire  
+**Suggested number of credits:** 	X hp  
+**Enrollment opens:**				Month day, year  
+**Enrollment closes:**				Month day, year     
+**Course fee:**				        XX   
+
+:::
+
+Course lead: John Doe (SciLifeLab) <a href="https://orcid.org/0000-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
+
+Course contact: john.doe@scilifelab.se
+
+## Course description
+
+Short description of the course
+
+## Learning Objectives and Learning Outcomes
+#### Learning Objectives
+
+- To get acquainted with...
+- To be able to...
+
+#### Learning Outcomes
+
+By the end of this course, learners will be able to:
+
+- Name...
+- Describe...
+
+## Target audience and course prerequisites
+
+**Target audience:** XXX    
+**Course prerequisites:** none   
+**Level:** beginner/intermediate  
+
+
+## Forms of instruction and examination  
+
+**Forms of instruction:** In-person, digital communications  
+**Forms of study:** self-studies (incl. independent work), group activities, lectures, and discussion seminars  
+**Language:** English    
+**Examination:** Active participation in all sessions and group assignments.   
+
+
+
+## Additional notes  
+
+- Other useful information  

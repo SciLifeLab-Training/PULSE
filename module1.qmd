@@ -1,0 +1,23 @@
+---
+title: "Module 1"
+author: "December Snow"
+date: today
+---
+
+::: {.callout-tip}
+### Learning Objectives
+
+By the end of this session, learners will be able to:
+
+- List...
+- Define...
+:::
+
+## Lectures and Materials
+
+Links to video recordings and session material
+
+
+## Contributors
+
+- John Doe <a href="https://orcid.org/0009-XXXX" rel="orcid"><img src="img/ORCID_Logomark.png" alt="" width="20" height="20"/></a>
