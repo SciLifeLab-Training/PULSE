@@ -7,7 +7,6 @@ The website is maintained by the PULSE Training and Development Committee (TCDC)
 For more information on this program, visit www.scilifelab.se/PULSE
 
 ## Information
-|  |  |
 |:------|:------|
 | Status | under development |
 | Version |  none |
