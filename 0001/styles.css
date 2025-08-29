@@ -1,0 +1,55 @@
+/* css styles */
+
+.navbar-title {
+    font-size: x-large;
+    font-weight: 800;
+    padding-left: 30px;
+}
+
+h1 {
+    font-size: 40px; 
+    font-weight: 700; 
+    color: #000;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 510;
+    color: #491f53;
+}
+
+h3 {
+    font-size: 25px;
+    font-weight: 510;
+    color: #491f53;     
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 510;
+    color: #491f53;     
+}
+
+
+a {
+    color: #007acc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+.callout-warning .callout-header {
+    background-color: #E5E5E5 !important;
+    color: black;
+  }
+  
+.callout-warning .callout-icon {
+    display: none;
+  }
+
+  .callout-warning {
+    border-left: 5px solid #a6a6a6  !important;
+  }
