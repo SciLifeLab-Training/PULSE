@@ -16,9 +16,9 @@ website:
     search: true
     contents: 
       - index.qmd 
-#      - GetStarted.qmd
-#      - schedule.qmd
-#      - instructors.qmd
+      - GetStarted.qmd
+      - TSTwebinars.qmd
+      - annualworkshop.qmd
 #      - module2.qmd
   navbar:
     background: "#045c64"

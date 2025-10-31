@@ -23,17 +23,21 @@ The PULSE Training & Career Development Committee can be reached at pulse.traini
 
 Welcome!
 
-We are looking forward to welcoming the incoming cohort 1 of PULSE postdocs.
+We were thrilled to welcome Cohort 1 of PULSE at the recent Kick Off for Postdocs and PIs. We hope that you are getting settled into your new lab environments and that the administrative tasks of moving to another country aren't too much of a challenge!
 
-More information on the training program is forthcoming.
+As a reminder, this fall you need to schedule your first annual committee meeting with your PI, any cosupervisors or additional mentors you have, and the Local Training Representative for your university.
+
+
+![](/img/timeline.png){fig-align="center" width=400 fig-alt="Diagram of timeline for Annual PCDP Meeting"}
+
 
 
 ## Important Dates 
 
 | Date | Event |
 |----|----|
-| October 22, 2025 | PULSE Kickoff - Online |
 | December 15, 2025 | Deadline to submit first PCDP report |
+|January 23, 2026 | First TST Webinar (afternoon, time TBD) |
 | March 10-13, 2026 | PULSE Annual Meeting - Uppsala |
 : {tbl-colwidths="[30,70]"}
 

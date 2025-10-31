@@ -1,0 +1,24 @@
+---
+title: "PULSE Annual Workshop"
+author: "PULSE TCDC"
+date: today
+---
+
+### Welcome!
+
+::: {.callout-tip}
+### Info
+The next PULSE Annual Workshop is schedule for **March 10-13, 2026** in Uppsala, Sweden. 
+
+Please note the program is currently under development!
+:::
+
+## Workshop Sessions
+The 2026 PULSE workshop will include sessions on:
+
+- Beyond the Bench: Impact of Science on Society & Policy
+- Ethics for Future Leaders
+- Science culture: Bias, Inclusivity, and Equality in Research
+- Entrepreneurial Mindset 101: Pitch a project
+
+As well as a scientific program to discuss research and foster interactions between group leaders, postdocs, and others.

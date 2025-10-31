@@ -1,0 +1,77 @@
+---
+title: "Transferrable Skills Webinars"
+author: "PULSE TCDC"
+date: today
+---
+
+### Welcome!
+
+::: {.callout-tip}
+### Info
+This program will evolve as it is implemented based on feedback from the cohort and other stakeholders! 
+:::
+
+## Webinar themes
+The webinars will run on Friday afternoons, beginning on **January 23, 2026** (time TBD)
+
+<summary><span style="font-size: 20px; font-weight: bold; color: #A7C947;">Transferrable Skills Training Webinars - Year 1</span></summary>
+
+| Month | Theme | 
+|------|------|
+| 1 | **Sustainable science communication** | 
+| 3 | **Project management and research** | 
+| 5 | **FAIR Data - Challenges and Possibilities** | 
+| 8 | **Coping with Pressure** | 
+| 9 | **Alignment with Green Deal Policy** | 
+| 11 | **Detecting Exploitation Potential** | 
+: {tbl-colwidths="[15,85]"} 
+
+<br>
+<br>
+<details>
+<summary><span style="font-size: 20px; font-weight: bold; color: #A7C947;">Transferrable Skills Training Webinars - Year 2</span></summary>
+
+| Month | Theme | 
+|------|------|
+| 1 | **Developing networks and communities** | 
+| 3 | **Organizational Learning and sustainable leadership** | 
+| 5 | **Scientific Storytelling** | 
+| 8 | **Wellbeing at work** | 
+| 9 | **Negotiation in research** | 
+| 11 | **Communication for policy** | 
+: {tbl-colwidths="[15,85]"} 
+
+</details>
+
+<details>
+<summary><span style="font-size: 20px; font-weight: bold; color: #A7C947;">Transferrable Skills Training Webinars - Year 3</span></summary>
+
+| Month | Theme | 
+|------|------|
+| 1 | **Communication and community - group analysis** | 
+| 3 | **Research project management - group analysis** | 
+| 5 | **Mentorship and teaching - group analysis** | 
+| 8 | **After the PULSE program** | 
+| 9 | **--** | 
+| 11 | **--** | 
+: {tbl-colwidths="[15,85]"} 
+
+</details>
+
+## Format
+Before the call: 
+
+- A video (approximately 30 minutes) of expert-led content will be provided along with any suggested materials or reflective questions.
+
+During the call:
+
+- The cohort will split into discussion groups, and discussion will be led by an assigned postdoc moderator.
+
+After the call:
+
+- After the discussion, the postdoc moderators will collaboratively generate a short news piece (maximum 1000 words) representing the Future Leaders’ Perspective. 
+- The PULSE communications team will help in publishing this piece on SciLifeLab channels. If the piece is of particular interest and suitability, it may also be submitted to journals or news markets.
+
+The format of these discussions is designed to build skills in negotiation, moderation, collaboration, critical thinking, and public communication. 
+
+ The moderator role will rotate with each discussion and each postdoc is expected to contribute to moderation and writing once per year.
