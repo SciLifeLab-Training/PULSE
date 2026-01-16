@@ -1,0 +1,114 @@
+---
+title: "Session 1 - Science Communication"
+author: "PULSE TCDC"
+date: today
+---
+
+::: {.callout-tip collapse="false"}
+
+## ResearchComp competencies developed in this session
+
+### Making an impact
+
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">1. Participate in the publication process</th>
+    </tr>
+    <tr>
+        <td>• Understands how academics communicate research results</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">2. Disseminate results to the research community</th>
+    </tr>
+    <tr>
+        <td>• Engages in knowledge exchange</td>
+        <td>• Contributes to promoting the public understanding of own research area</td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">4. Communicate to the broad public</th>
+    </tr>
+    <tr>
+        <td>• Understands and appreciates the value of engaging with the public</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">7. Promote the transfer of knowledge </th>
+    </tr>
+    <tr>
+        <td> • Appreciates the importance of knowledge exchange within society</td>
+        <td>• Contributes to knowledge exchange within society </td>
+    </tr>
+</table>
+
+```
+
+:::
+
+## Learn
+Watch the following interview with Dr. Emelie Hilner, physicist and science communication officer at MAX IV.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/my2gcQ3WW_I?si=dZyZRSM3tSBdGv0d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Practice
+
+::: {.callout-note}
+
+The work of this practice exercise should take a maximum of 1 hour.
+
+:::
+
+#### Step 1 - Identify one science communicator that you think does good work.
+
+- If you’re stuck, some popular science communicators include [Dr. Hannah Fry](https://hannahfry.wstudio.uk), [Dr. David Suzuki](https://davidsuzuki.org/expert/david-suzuki/), [Bill Nye the Science Guy](https://www.billnye.com), and [Dr. Michelle Wong](https://labmuffin.com/about-michelle/).
+- There are different types of audience responses that can be generated: Awareness, Enjoyment, Interest, Understanding, and Opinion-forming [^1].
+    - How would you categorize the primary response you have to their content?
+
+[^1]: According to the AEIOU Framework used to evaluate Science Communication effectiveness, first published as [Burns, et al. 2003](https://doi.org/10.1177/09636625030122004)
+
+#### Step 2 - Create a short video of yourself sharing your science for a non-scientific audience (length: 1-2 minutes)
+- Dr. Hilner recommends reflecting on the **context** your science operates in. What challenges are you ultimately trying to solve? What field of exploration are you working in? 
+- Your video content should be about your area of expertise, and could be explaining a concept, introducing a technique, debunking a misconception, sharing what the best part of your job is, etc. 
+- The format can be filming yourself talking, narrating something happening in the lab, narrating an animation, chatting with a colleague, etc.
+- You are very welcome to do this exercise in any language.
+
+::: {.callout-important}
+Ensure you do not film any person or any experimental setups without explicit consent!
+:::
+
+#### Step 3 - Show the video to at least one person from the non-scientific audience 
+
+- This can be a friend, someone in your family, a teammate, your kid’s friend’s parent, a bored barista, anyone! You are free to choose whether you post this on social media or keep it locally on your mobile.
+- Ask your audience about what kind of response they had to your content. Did they enjoy it? Did they learn something? Did this match the response you hoped to generate?
+
+## Discuss
+-	At the webinar, your facilitators will lead a discussion about your experience of this exercise.
+- If you are facilitating, please take a look at the [Facilitation Guide](https://nextcloud.dc.scilifelab.se/s/N2jT29zZaFe3qyc).
+
+## Next level
+#### Five (optional!) exercises for science communication
+If you're interested in deepening your practice of science communication, here are five additional exercises:
+
+1. Read the latest [news article from MAX IV](https://www.maxiv.lu.se/article/how-to-study-the-digestion-of-vegan-protein-in-real-time/). What AEIOU response do you have to this news piece?
+
+2. Read and save these [Seven principles for research communication](https://www.staff.lu.se/research-and-education/research-support/communicate-your-research/principles-research-communication), from Lund University.
+
+3. Watch Dr. Michelle Wong's [deep dive into misrepresentation of expert opinion on social platforms](https://youtu.be/0bRpljNL7ro?si=ZtXz5DCMAv_8S5YC), or the 'appeal to false authority'. Reflect on what sorts of science communication topics you are and are not able to address with your expertise.
+
+4. Find the contact information for your University's press office, and look for information on what they require for a press release.
+
+5. Find three markets for science communication relevant to your field. As an example, for a microbiology project this could be [The Conversation](https://theconversation.com/global), [The Microbiologist](https://www.the-microbiologist.com), the [Small Things Considered](https://schaechter.asmblog.org) blog, or the Swedish language magazine [Tidningen Curie](https://www.tidningencurie.se).
+
+
+### Citation
+The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite this material as:
+
+> Hilner, E. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Session 1 - Science Communication*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session1.html. DOI: (pending)
+
+If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se

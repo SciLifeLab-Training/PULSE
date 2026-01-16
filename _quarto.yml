@@ -18,6 +18,11 @@ website:
       - index.qmd 
       - GetStarted.qmd
       - TSTwebinars.qmd
+      - "<details><summary>Sessions</summary>
+          <ul>
+            <li><a href='session1.qmd'>Session 1</a></li>
+          </ul>
+        </details>"
       - annualworkshop.qmd
 #      - module2.qmd
   navbar:

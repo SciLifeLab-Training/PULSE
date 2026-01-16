@@ -1,5 +1,5 @@
 ---
-title: "Transferrable Skills Webinars"
+title: "Transferrable Skills Training"
 author: "PULSE TCDC"
 date: today
 ---
@@ -12,13 +12,13 @@ This program will evolve as it is implemented based on feedback from the cohort 
 :::
 
 ## Webinar themes
-The webinars will run on Friday afternoons, beginning on **January 23, 2026** (time TBD)
+The webinars will run on Friday afternoons, beginning on **January 23, 2026, 14:00**
 
 <summary><span style="font-size: 20px; font-weight: bold; color: #A7C947;">Transferrable Skills Training Webinars - Year 1</span></summary>
 
 | Month | Theme | 
 |------|------|
-| 1 | **Sustainable science communication** | 
+| 1 | **[Sustainable science communication](session1.qmd)** | 
 | 3 | **Project management and research** | 
 | 5 | **FAIR Data - Challenges and Possibilities** | 
 | 8 | **Coping with Pressure** | 
