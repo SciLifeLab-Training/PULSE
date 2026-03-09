@@ -73,6 +73,7 @@ For this module, follow the exercise created by Dr. P. Alison Paprica to produce
 
 - Visit the [Research Project Management Tools and Resources](https://researchpm.com/tools-resources/) website and download the Work Breakdown Structures powerpoint templates.
 - Look at the 7 template Work Breakdown Structures Dr. Paprica has created as examples of how a project might be structured.
+    - see slide 13 for tips for using this template!
 - Choose the template that you think fits best for your main research project. 
 
 #### Step 2 - Fill in the WBS
@@ -111,7 +112,9 @@ If you're interested in deepening your practice of project management, here are 
     - How might this help you communicate and manage your projects?
 
 ### Citation
-The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="CC-BY-SA"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+The video from this session is available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+
+The module activity and Research Project Management tools are created by P. Alison Paprica and are used under <a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="CC-BY"><img src="img/by-nc.png" alt="" height="20"/></a>
 
 Please cite this material as:
 
