@@ -1,0 +1,120 @@
+---
+title: "Session 2 - Project Management"
+author: "PULSE TCDC"
+date: today
+---
+
+::: {.callout-tip collapse="false"}
+
+## ResearchComp competencies developed in this session
+
+### Managing Research
+
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">2. Manage projects</th>
+    </tr>
+    <tr>
+        <td>• Is familiar with different project management approaches and tools.<br>
+            • Participates in projects and delivers results according to deadlines.
+        </td>
+        <td>• Effectively uses a broad project management toolkit.<br>
+            • Defines and designs own research projects. <br>
+            • Identifies risks and implements proper mitigation strategies. </td>
+        <td> </td>
+    </tr>
+    <tr>
+</table>
+```
+### Self-management
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">3. Plan self-organization</th>
+    </tr>
+    <tr>
+        <td>• Manages time in own research projects effectively.<br>
+        </td>
+        <td>• Establishes own time management systems.<br>
+</td>
+        <td> </td>
+    </tr>
+    <tr>
+</table>
+```
+
+:::
+
+## Learn
+Watch the following interview with Dr. P. Alison Paprica, senior fellow at the University of Toronto, project management professional, and author of Research Project Management and Leadership: A handbook for everyone [^1].
+
+<iframe width="560" height="315" src="ADDVIDHERE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[^1]: Paprica, P.A. (2024) Research Project Management and Leadership: A handbook for everyone (University of Toronto Press). [ISBN 978-1-4875-4451-5](https://utppublishing.com/doi/book/10.3138/9781487544461)
+
+## Practice
+
+::: {.callout-note}
+
+The work of this practice exercise should take a maximum of 1 hour.
+
+:::
+
+For this module, follow the exercise created by Dr. P. Alison Paprica to produce a Work Breakdown Structure for a primary research project.
+
+#### Step 1 - Choose a WBS Template that works for your project
+
+- Visit the [Research Project Management Tools and Resources](https://researchpm.com/tools-resources/) website and download the Work Breakdown Structures powerpoint templates.
+- Look at the 7 template Work Breakdown Structures Dr. Paprica has created as examples of how a project might be structured.
+- Choose the template that you think fits best for your main research project. 
+
+#### Step 2 - Fill in the WBS
+
+- Add the name of your main research project, and fill in the different workstreams that are relevant for your research (ie: A, B, C, D, E)
+- Feel free to add additional workstreams or remove those that aren't relevant. For each workstream, write in the specific deliverables for your project (ie: A1, A2, B1...).
+    - A deliverable is defined as a tangible thing that will be produced in the course of a project -- think presentations, reports, protocols, webinars, articles, etc.
+
+::: {.callout-important}
+Your WBS must remain a one-page document!
+:::
+
+
+#### Step 3 - Send the WBS to your supervisor
+
+- When it is complete, send or show your WBS to your supervisor.
+- Ask them Alison's suggested question: 
+**If we produce this, and only this, will the project be complete?**
+
+## Discuss
+-	At the webinar, your facilitators will lead a discussion about your experience of this exercise.
+- If you are facilitating, please take a look at the [Facilitation Guide](https://nextcloud.dc.scilifelab.se/s/N2jT29zZaFe3qyc).
+
+## Next level
+#### Three (optional!) exercises for project management
+If you're interested in deepening your practice of project management, here are three additional exercises:
+
+1. Read Research Project Management: A handbook for everyone. 
+    - The book is a comprehensive yet accessible manual for research project management, and the research leader interviews are a valuable window into how 19 leaders approach their work. 
+    - The book can be borrowed through University Libraries (Stockholm University has a physical copy in the library [here](https://sub.su.se/en/Kopac/bestand?bibId=2800405)), the SciLifeLab Training Hub, or order a copy for your lab!
+
+2. Download the Deliverables-based Gantt Schedules template from the [Research Project Management Tools and Resources](https://researchpm.com/tools-resources/) page. Use the deliverables from your WBS to create a schedule for your project.
+    - Do you have enough time to complete everything?
+
+3. Download the Progress Tracking Sheets from the [Research Project Management Tools and Resources](https://researchpm.com/tools-resources/) page. Use the deliverables from your WBS to create a tracking sheet for your project. 
+    - How might this help you communicate and manage your projects?
+
+### Citation
+The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="CC-BY-SA"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite this material as:
+
+> Paprica, P.A, and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Session 2 - Project Management*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session2.html. DOI: (pending)
+
+If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
