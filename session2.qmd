@@ -53,9 +53,9 @@ date: today
 :::
 
 ## Learn
-Watch the following interview with Dr. P. Alison Paprica, senior fellow at the University of Toronto, project management professional, and author of Research Project Management and Leadership: A handbook for everyone [^1].
+Watch the following interview with Dr. P. Alison Paprica, senior fellow at the University of Toronto, project management professional, author of Research Project Management and Leadership: A handbook for everyone [^1], and creator of [www.researchpm.com](https://www.researchpm.com) .
 
-<iframe width="560" height="315" src="ADDVIDHERE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/rDlewEUj4f8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [^1]: Paprica, P.A. (2024) Research Project Management and Leadership: A handbook for everyone (University of Toronto Press). [ISBN 978-1-4875-4451-5](https://utppublishing.com/doi/book/10.3138/9781487544461)
 
@@ -67,7 +67,7 @@ The work of this practice exercise should take a maximum of 1 hour.
 
 :::
 
-For this module, follow the exercise created by Dr. P. Alison Paprica to produce a Work Breakdown Structure for a primary research project.
+For this module, follow the exercise created by Alison to produce a Work Breakdown Structure for a primary research project.
 
 #### Step 1 - Choose a WBS Template that works for your project
 
