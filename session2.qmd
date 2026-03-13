@@ -55,7 +55,7 @@ date: today
 ## Learn
 Watch the following interview with Dr. P. Alison Paprica, senior fellow at the University of Toronto, project management professional, author of Research Project Management and Leadership: A handbook for everyone [^1], and creator of [www.researchpm.com](https://www.researchpm.com) .
 
-<iframe width="560" height="315" src="https://youtu.be/rDlewEUj4f8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rDlewEUj4f8?si=Iutc1EfruPz-ofrV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [^1]: Paprica, P.A. (2024) Research Project Management and Leadership: A handbook for everyone (University of Toronto Press). [ISBN 978-1-4875-4451-5](https://utppublishing.com/doi/book/10.3138/9781487544461)
 
