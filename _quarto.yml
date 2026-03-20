@@ -25,7 +25,12 @@ website:
           </ul>
         </details>"
       - annualworkshop.qmd
-#      - module2.qmd
+      - "<details><summary>Sessions</summary>
+          <ul>
+            <li><a href='workshop-s2.qmd'>Ethics for Future Leaders</a></li>
+            <li><a href='workshop-s3.qmd'>Research Culture</a></li>
+          </ul>
+        </details>"
   navbar:
     background: "#045c64"
     logo: "img/SciLifeLab_Logotype_NEG.png"
@@ -40,3 +45,7 @@ format:
 
 execute:
   freeze: auto
+
+
+#            <li><a href='workshop-s1.qmd'>Beyond the Bench</a></li>
+#            <li><a href='workshop-s4.qmd'>Entrepreneurial Mindset</a></li>

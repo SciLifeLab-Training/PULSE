@@ -1,0 +1,21 @@
+---
+title: "Annual Meeting Session 2 - Ethics for Future Leaders"
+author: "PULSE TCDC"
+date: March 11, 2026
+---
+
+::: {.callout-tip collapse="false"}
+
+## ResearchComp competencies developed in this session
+:::
+
+### Structure
+
+### Citation
+The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite this material as:
+
+> Helgesson, CF. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Workshop 2 - Ethics for Future Leaders*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/workshop-s2.html. DOI: (pending)
+
+If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se

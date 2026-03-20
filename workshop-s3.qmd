@@ -1,0 +1,72 @@
+---
+title: "Workshop 3 - Research Culture: Bias, Inclusivity, and Equality in Science"
+author: "PULSE TCDC"
+date: March 12, 2026
+---
+
+::: {.callout-tip collapse="false"}
+
+## ResearchComp competencies developed in this session
+
+### Making an impact
+
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">1. Participate in the publication process</th>
+    </tr>
+    <tr>
+        <td>• Understands how academics communicate research results</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">2. Disseminate results to the research community</th>
+    </tr>
+    <tr>
+        <td>• Engages in knowledge exchange</td>
+        <td>• Contributes to promoting the public understanding of own research area</td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">4. Communicate to the broad public</th>
+    </tr>
+    <tr>
+        <td>• Understands and appreciates the value of engaging with the public</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">7. Promote the transfer of knowledge </th>
+    </tr>
+    <tr>
+        <td> • Appreciates the importance of knowledge exchange within society</td>
+        <td>• Contributes to knowledge exchange within society </td>
+    </tr>
+</table>
+
+```
+
+:::
+
+### Structure
+
+
+
+### Materials
+
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1yEKvN3CYxQ7lWyrncOFWrSQTH-131KCT/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yEKvN3CYxQ7lWyrncOFWrSQTH-131KCT/export/pdf" target="_blank" rel="noopener">Workshop 3: Download PDF</a>
+ 
+
+
+
+### Citation
+The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite this material as:
+
+>  Folkesson, K. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Workshop 3 - Research culture: Bias, Inclusivity, and Equality in Science*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/workshop-s3.html. DOI: (pending)
+
+If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se

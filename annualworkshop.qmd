@@ -8,17 +8,19 @@ date: today
 
 ::: {.callout-tip}
 ### Info
-The next PULSE Annual Workshop is schedule for **March 10-13, 2026** in Uppsala, Sweden. 
-
-Please note the program is currently under development!
+The first PULSE Annual Workshop was held **March 10-13, 2026** in Uppsala, Sweden. 
 :::
 
 ## Workshop Sessions
-The 2026 PULSE workshop will include sessions on:
+The four transferrable skills sessions of the 2026 PULSE workshop were:
 
-- Beyond the Bench: Impact of Science on Society & Policy
-- Ethics for Future Leaders
-- Science culture: Bias, Inclusivity, and Equality in Research
-- Entrepreneurial Mindset 101: Pitch a project
+| | Session Title | 
+|------|------|
+| 1 | **Beyond the Bench: Impact of Science on Industry, Policy & Society** | 
+| 2 | **[Ethics for Future Leaders](workshop-s2.qmd)** | 
+| 3 | **[Research Culture: Bias, Inclusivity, and Equality in Science](workshop-s3.qmd)** | 
+| 4 | **Entrepreneurial Mindset 101: Pitch a project** | 
+: {tbl-colwidths="[5,95]"} 
 
-As well as a scientific program to discuss research and foster interactions between group leaders, postdocs, and others.
+
+The meeting also included one full day of research presentations and discussion to support interactions between group leaders, postdocs, and others.
