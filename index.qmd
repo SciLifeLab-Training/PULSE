@@ -28,8 +28,8 @@ We have just completed our first PULSE Annual Meeting -- thank you everyone for 
 | Date | Event |
 |----|----|
 | May 22, 2026 | TST Webinar 3, 14:00 |
-| March 20, 2026 | TST Webinar 2, 14:00 |
+| March 20, 2026 | TST Webinar 2, 14:00 ([Assignment](session2.qmd)) |
 | March 10-13, 2026 | PULSE Annual Meeting - Uppsala |
-|January 23, 2026 | First TST Webinar (afternoon, 14:00) |
+|January 23, 2026 | First TST Webinar (afternoon, 14:00) ([Assignment](session1.qmd))  |
 : {tbl-colwidths="[30,70]"}
 

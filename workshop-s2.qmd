@@ -4,15 +4,105 @@ author: "PULSE TCDC"
 date: March 11, 2026
 ---
 
-::: {.callout-tip collapse="false"}
+::: {.callout-tip collapse="true"}
 
 ## ResearchComp competencies developed in this session
+### Managing Research
+
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">3. Negotiate</th>
+    </tr>
+    <tr>
+        <td>• Actively seeks to understand the different viewpoints and motivations of the negotiating parties.
+        </td>
+        <td>• Contributes to negotiation strategies by developing scenarios and a clear vision</td>
+    </tr>
+    <tr>
+</table>
+```
+### Cognitive abilities
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">5. Systemic thinking</th>
+    </tr>
+    <tr>
+        <td>• Understands the national and international research landscape of own discipline</td>
+        <td>• Understands the research landscape, and the complex interaction between its actors beyond own discipline</td>
+    </tr>
+        <th colspan="2" style="background-color: #D2C7D4">6. Problem solving</th>
+    </tr>
+    <tr>
+        <td>
+        </td>
+        <td>• Assesses the effectiveness of own and others’ solutions to research problems.<br>
+        • Formulates and verifies hypotheses addressing a broad range of research problems.
+</td>
+    </tr>
+    <tr>
+</table>
+```
 :::
 
 ### Structure
+This workshop addresses ethical decision making for research leaders. Participants will spend time:
+
+- understanding ethical frameworks and valuation in research
+- applying ethical frameworks in decision-making
+- analyzing strategic objectives of different agencies
+- evaluating these strategic objectives against those of other agencies
+- creating a joint strategy for action
+- evaluating this plan against that from a real-life scenario
+
+| Time | Format | Title |
+|------|------| ------| 
+| 60m | Lecture | [Claes-Fredrik Helgesson, CIRCUS Uppsala University](#lecture) |
+| 20m | Pairs | [The Startup Ethics Game](#startup-ethics-game) |
+| 90m | Groups of 4, large group | [Model Forum - Preparation for AMR Outbreak](#model-forum---preparing-sweden-for-an-amr-outbreak) |
+: {tbl-colwidths="[10, 30, 60]"}
+
+### Lecture
+Claes-Fredrik Helgesson,  professor and director of CIRCUS at Uppsala University gave a talk entitled: **Value practices as a framework for understanding the grappling with conflicting values in medical research and beyond.** 
+
+The slides of this lecture can be accessed [here](https://drive.google.com/file/d/1C1-Vg1sLwTyYIrARroBT6srI2Yxsdqwd/view?usp=sharing) (note: requires SciLifeLab login).
+
+### Startup Ethics Game
+**Startup Ethics:** The entrepreneurial journey is an app-based game where participants take the role of a startup founder and must make decisions that weight economic, social, and environmental impacts.
+
+**Learning outcome:** By the end of this activity, participants will be able to identify whether they use predominantly deontological or teleological ethical frameworks when making decisions.
+
+The app is developed by Gustav Hägg at Malmö University, and can be accessed [here](https://start-up-ethics-hagggustav.replit.app) or by the QR code below.
+
+![](img/QR-ethicsgame.png){ width=10% }
+
+### Model Forum - Preparing Sweden for an AMR Outbreak 
+**Model forum:** This model forum is preparation for and synthesis of a joint strategy that encompasses the needs of five different government agencies. The content of the forum is adapted from the work of *Roffey et al. 2015*[^1].
+
+**Learning outcome:** By the end of this activity, participants will be able to:
+
+- develop (and present) strategic actions associated with a governmental agency 
+- negotiate the priority of these strategic actions in a joint strategy
+
+The below materials include the exercise information as well as the associated agency information cards.
+
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1AqjWazy8iWA7fjb-HMRTL4sfdzDxIr25/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1AqjWazy8iWA7fjb-HMRTL4sfdzDxIr25/export/pdf" target="_blank" rel="noopener">Workshop 2 - Model Forum Materials: Download PDF</a>
+
+References used in this material can be found in the PULSE [Zotero library](https://www.zotero.org/groups/6236891/pulse_cohort1/library)
+
+[^1]: Roffey, R., Lindberg, A., Molin, L., and Wikman-Svahn, P. (2015). A Plausible Worst-Case Scenario of Increasing Multidrug Resistance as a Tool for Assessing Societal Risks and Capabilities in Sweden. Health Security 13, 174–183. [https://doi.org/10.1089/hs.2014.0082](https://doi.org/10.1089/hs.2014.0082)
 
 ### Citation
-The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+The structure and materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
 
 Please cite this material as:
 

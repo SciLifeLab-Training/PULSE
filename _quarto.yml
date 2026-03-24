@@ -27,8 +27,10 @@ website:
       - annualworkshop.qmd
       - "<details><summary>Sessions</summary>
           <ul>
+            <li><a href='workshop-s1.qmd'>Beyond the Bench</a></li>
             <li><a href='workshop-s2.qmd'>Ethics for Future Leaders</a></li>
             <li><a href='workshop-s3.qmd'>Research Culture</a></li>
+            <li><a href='workshop-s4.qmd'>Entrepreneurial Mindset</a></li>
           </ul>
         </details>"
   navbar:
@@ -45,7 +47,3 @@ format:
 
 execute:
   freeze: auto
-
-
-#            <li><a href='workshop-s1.qmd'>Beyond the Bench</a></li>
-#            <li><a href='workshop-s4.qmd'>Entrepreneurial Mindset</a></li>

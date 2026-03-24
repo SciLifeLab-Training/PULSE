@@ -4,11 +4,11 @@ author: "PULSE TCDC"
 date: March 12, 2026
 ---
 
-::: {.callout-tip collapse="false"}
+::: {.callout-tip collapse="true"}
 
 ## ResearchComp competencies developed in this session
 
-### Making an impact
+### Work with others
 
 ```{=html}
 <table>
@@ -16,33 +16,37 @@ date: March 12, 2026
         <th>Foundational</th>
         <th>Intermediate</th>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">1. Participate in the publication process</th>
+        <th colspan="2" style="background-color: #D2C7D4">1. Interact professionally</th>
     </tr>
     <tr>
-        <td>• Understands how academics communicate research results</td>
-        <td> </td>
+        <td>• Listens to other people’s ideas with no prejudice</td>
+        <td>• Embraces behaviours that foster effective and positive interactions with colleagues in a goal-oriented manner.</td>
     </tr>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">2. Disseminate results to the research community</th>
+        <th colspan="2" style="background-color: #D2C7D4">3. Work in teams</th>
     </tr>
     <tr>
-        <td>• Engages in knowledge exchange</td>
-        <td>• Contributes to promoting the public understanding of own research area</td>
+        <td>• Appreciate the impact of own behaviour on teamwork.</td>
+        <td>• Understands own priorities and those of own coworkers, creates a cooperative work environment</td>
+    </tr>
+        <tr>
+        <th colspan="2" style="background-color: #D2C7D4">4. Ensure wellbeing at work</th>
     </tr>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">4. Communicate to the broad public</th>
+        <td>• Understands the link between work, physical and mental health, and wellbeing.</td>
+        <td>• Assists colleagues manage pressure and stress and contributes to a healthy work environment.</td>
     </tr>
     <tr>
-        <td>• Understands and appreciates the value of engaging with the public</td>
-        <td> </td>
+        <th colspan="2" style="background-color: #D2C7D4">6. Promote inclusion and diversity</th>
     </tr>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">7. Promote the transfer of knowledge </th>
-    </tr>
-    <tr>
-        <td> • Appreciates the importance of knowledge exchange within society</td>
-        <td>• Contributes to knowledge exchange within society </td>
-    </tr>
+        <td>• Appreciates the importance of diversity and how it benefits complex research projects.<br>
+        • Is open-minded about diverging perspectives, and sensible and respectful to individual differences.<br>
+        • Understands diversity and equality requirements of institutions.</td>
+        <td>• Actively works with diversity projects.<br>
+        • Keeps up to date on research and findings about the benefits and challenges of working with diversity<br>
+        • Works exclusively in teams and collaboration partnerships that respect inclusiveness and diversity
+        </td>
 </table>
 
 ```
@@ -50,16 +54,34 @@ date: March 12, 2026
 :::
 
 ### Structure
+This workshop addresses how research cultures are made, including factors that determine bias, inclusivity and equality in science spaces. The structure of the workshop is adapted from the work of *Carnes et al. 2015*[^1] and *Johnson, 2025*[^2]. Participants will spend time:
 
+- evaluating research culture in different research environments
+- identifying types of bias in research-relevant scenarios
+- developing personal strategies to support equity and inclusivity
 
+| Time | Format | Title |
+|------|------| ------| 
+| 30m | Interactive lecture | Introduction to research culture |
+| 30m | Large group discussion | Identifying 6 types of bias |
+| 30m | Reader's theatre | Case studies |
+| 20m | Large group | Bias replacement strategies
+| 10m | Individual work | Creating individual strategies |
+: {tbl-colwidths="[10, 30, 60]"}
+
+[^1]: Carnes, M., Devine, P.G., Baier Manwell, L., Byars-Winston, A., Fine, E., Ford, C.E., Forscher, P., Isaac, C., Kaatz, A., Magua, W., et al. (2015). The Effect of an Intervention to Break the Gender Bias Habit for Faculty at One Institution: A Cluster Randomized, Controlled Trial. Academic Medicine 90, 221–230. [https://doi.org/10.1097/ACM.0000000000000552](https://doi.org/10.1097/ACM.0000000000000552).
+
+[^2]: Johnson, A. (2024). How to design research-aligned DEI interventions in physics. Preprint at arXiv, [https://doi.org/10.48550/ARXIV.2406.01390](https://doi.org/10.48550/ARXIV.2406.01390).
 
 ### Materials
 
 <iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1yEKvN3CYxQ7lWyrncOFWrSQTH-131KCT/preview" width="500" height="300" data-mce-fragment="1"></iframe>
 
 <a class="inline_disabled" href="https://docs.google.com/presentation/d/1yEKvN3CYxQ7lWyrncOFWrSQTH-131KCT/export/pdf" target="_blank" rel="noopener">Workshop 3: Download PDF</a>
- 
 
+View the [Workshop 3: Reader's Theatre](https://docs.google.com/document/d/1X-zjSp0E10c6bWQHJcBB4ijOni_YPdcS/preview) script, or <a class="inline_disabled" href="https://docs.google.com/document/d/1X-zjSp0E10c6bWQHJcBB4ijOni_YPdcS/export/pdf" target="_blank" rel="noopener">download a PDF</a>
+
+References used in this material can be found in the PULSE [Zotero library](https://www.zotero.org/groups/6236891/pulse_cohort1/library)
 
 
 ### Citation
