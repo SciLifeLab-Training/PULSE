@@ -20,7 +20,7 @@ The webinars will run on Friday afternoons at 14:00
 |------|------|
 | 1 | **[Sustainable science communication](session1.qmd)** | 
 | 3 | **[Project management and research](session2)** | 
-| 5 | **FAIR Data - Challenges and Possibilities** | 
+| 5 | **[Open Data - Challenges and Possibilities](session3)** | 
 | 8 | **Coping with Pressure** | 
 | 9 | **Alignment with Green Deal Policy** | 
 | 11 | **Detecting Exploitation Potential** | 

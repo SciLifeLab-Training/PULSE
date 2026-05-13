@@ -1,7 +1,7 @@
 ---
 title: "Session 2 - Project Management"
 author: "PULSE TCDC"
-date: today
+date: Mar 13, 2026
 ---
 
 ::: {.callout-tip collapse="false"}

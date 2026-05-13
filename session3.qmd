@@ -1,0 +1,97 @@
+---
+title: "Session 3 - Open Data: Challenges and Opportunties"
+author: "PULSE TCDC"
+date: May 13, 2026
+---
+
+::: {.callout-tip collapse="false"}
+
+## ResearchComp competencies developed in this session
+### Managing Research Tools
+
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">1. Manage research data</th>
+    </tr>
+    <tr>
+        <td>• Identifies sources of information, and assesses if data is trustworthy, valid, reliable and pertinent.<br>
+        • Uses, transforms, and analyses non-sensitive research data transparently and to legal and privacy requirements. </td>
+        <td>• Organises data sets to be FAIR, and easily stored and retrieved in a structured environment.<br>
+        • Trains and empowers other team members to work with data in a structured, transparent, and accessible way. </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">2. Promote citizen science</th>
+    </tr>
+    <tr>
+        <td>• Understands that citizens are knowledge-holders with the ability to contribute to the research process in some areas of research.</td>
+        <td>• Is inclusive and transparent in the research process and understands how best to engage with citizens in each specific context.</td>
+    </tr>
+</table>
+
+```
+
+:::
+
+## Learn
+Watch the following interview with Dr. Bastian Greshake Tzovaras, Independent Researcher in participatory research, who works with Open Data and governance of Open projects.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y4UpggpCB5M?si=DscHyiv9q83Ap0m0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Practice
+
+::: {.callout-note}
+
+The work of this practice exercise should take a maximum of 1 hour.
+
+:::
+
+#### Step 1 - Identify a dataset that has relevance for your research
+- This could be from a [Zenodo](https://zenodo.org) search, the [UK Biobank](https://biobank.ndph.ox.ac.uk/showcase/index.cgi), an [iNaturalist project](https://www.inaturalist.org/projects/university-of-manitoba-bioblitz-week), the [SciLifeLab Data Repository](https://figshare.scilifelab.se/search?itemTypes=3), or other sources.
+- It does not have to replace an experiment that you have planned, but could complement the data you are producing by facilitating a pilot experiment, meta-analysis, or another use.
+
+#### Step 2 - Assess the metadata of this dataset
+- Can you understand:
+    - what the purpose of the dataset is
+    - who collected or generated the dataset
+    - how and when the data were collected
+    - any data processing or quality assurance that occurred
+    - the format of the data
+
+#### Step 3 - Create a one-page document evaluating if you would reuse this or generate your own data.
+- You can write, draw, diagram, create a table, a slide, or a graphic to document your evaluation
+- The document should evaluate:
+    - Would you need to generate additional data, or could you totally or partially reuse this dataset?
+    - Are there any concerns you would have with reusing data collected by other researchers?
+    - Will the data you produce be able to be reused by other researchers?
+    - Who decides if your data can be reused?
+    - Any reflections you have on data production and sustainability.
+
+## Discuss
+-	At the webinar, your facilitators will lead a discussion about your experience of this exercise.
+- If you are facilitating, please take a look at the [Facilitation Guide](https://nextcloud.dc.scilifelab.se/s/N2jT29zZaFe3qyc).
+
+## Next level
+#### Four (optional!) exercises for Open Data
+If you're interested in deepening your expertise within Open Data, here are four additional exercises:
+
+1. Watch [this lecture](https://play.kth.se/media/Academic+freedom%3A+Data+rescue+project/0_l3vrw102?st=140) from Lynda Kellam of the [Data Rescue Project](https://www.datarescueproject.org), part of the KTH Seminar Series on Democracy and Academic Freedom. Reflect on when public data should be preserved or deleted.
+
+2. Read this article in Science about [the UK Biobank's data breach](https://doi.org/10.1126/science.ziwm0g5). How would you respond if your data was leaked?
+
+3. Review the section 'Can you trust the data?' in [this slideshow on Data Reuse](https://docs.google.com/presentation/d/1L4aDwKTjuzVm9us1JEEWtqBouFrMpgOu33U2F9mWCIk/view?slide=id.g359fb31e762_2_254#slide=id.g359fb31e762_2_254) given by David Rayner from the [Swedish National Data Service](https://snd.se/en). Did the dataset you chose fulfill the checklist requirements?
+
+4. The [Open Science in the Swedish Context](https://training.scilifelab.se/courses/open-science-in-the-swedish-context) and [Intro to Data Management Practices](https://nbis.se/training/introduction-to-data-management-practices) courses are excellent SciLifeLab offerings to develop your knowledge on Open Science and Data Management. Email the course coordinator and ask to be notified when the next registration opens!
+
+
+### Citation
+The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite this material as:
+
+> Greshake Tzovaras, B., Luijten, I. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Session 3 - Open Data: Challenges and Opportunities*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session3.html. DOI: (pending)
+
+If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se

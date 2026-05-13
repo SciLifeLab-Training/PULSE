@@ -22,6 +22,7 @@ website:
           <ul>
             <li><a href='session1.qmd'>Session 1</a></li>
             <li><a href='session2.qmd'>Session 2</a></li>
+            <li><a href='session3.qmd'>Session 3</a></li>
           </ul>
         </details>"
       - annualworkshop.qmd

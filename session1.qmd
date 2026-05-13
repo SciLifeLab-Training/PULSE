@@ -1,7 +1,7 @@
 ---
 title: "Session 1 - Science Communication"
 author: "PULSE TCDC"
-date: today
+date: Jan 16, 2026
 ---
 
 ::: {.callout-tip collapse="false"}
