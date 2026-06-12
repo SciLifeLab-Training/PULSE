@@ -4,14 +4,113 @@ author: "PULSE TCDC"
 date: March 13, 2026
 ---
 
-coming soon
+::: {.callout-tip collapse="true"}
 
-<!--
+## ResearchComp competencies developed in this session
+### Self-management
+
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">2. Show entrepreneurial spirit</th>
+    </tr>
+    <tr>
+        <td>• Demonstrate initiative and seeks opportunities to create value with own research<br>
+         • Understands the potential of commercializing academic research
+        </td>
+        <td>• Performs iterations and tests to get feedback on new ideas</td>
+    </tr>
+    <tr>
+</table>
+```
+### Managing research tools
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">3. Manage intellectual property rights</th>
+    </tr>
+    <tr>
+        <td>• Understands basic concepts of data ownership rules as they apply to own research</td>
+        <td></td>
+    </tr>
+    <tr>
+</table>
+```
+### Making an impact
+
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #D2C7D4">7. Promote the transfer of knowledge</th>
+    </tr>
+    <tr>
+        <td>• Understands the process of commercial exploitation of research results<br>
+         • Recognizes the value of embedding academia in innovation communities
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+</table>
+```
+:::
+
+### Structure
+
+This workshop addresses the Swedish innovation system and important steps in the innovation journey of your research. Early understanding of entrepreneurial principles as well as how to package an idea based on NABC (need, approach, benefit, competition) is beneficial when pitching for different target groups.
+
+- Understanding the different stakeholders in the Swedish innovation system and what support is available.
+- Understanding the importance of protecting your idea, while performing research and publishing results.
+- Applying the knowledge of NABC, when pitching your research or solution proposal to fellow post docs and review panel.
+
+| Time | Format | Title |
+|------|------| ------| 
+| 10m | Introduction | Anna Ridderstad Wollberg, SciLifeLab DDD Platform |
+| 45m | Lecture | [The Innovation Ecosystem](#the-innovation-ecosystem) |
+| 15m | Lecture | [NABC, pitching, stakeholders](#pitching-nabc-stakeholders) |
+| 120m | Pitching exercise | [Pitch preparation](#pitching-practice) |
+| 10m | Closing | Closing remarks & participant survey |
+: {tbl-colwidths="[10, 30, 60]"}
+
+### The Innovation Ecosystem
+Lars Svensson, Ph.D., Innovation Developer, LU Innovation and Ali Moshfegh Associate professor​ and Senior innovation advisor at LiU Innovation gave a lecture covering the following areas: 
+
+- Professor’s privilege
+- Publication and patent
+- Impact and valorisation
+- Swedish innovation support ecosystem
+- The Swedish Principle of Public Access
+
+<iframe style="border: none;" title="Iframe Example" src="https://drive.google.com/file/d/1QKZah-hS4CZ5QYXon_rTIxe3m1amubdU/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+### Pitching, NABC, stakeholders
+Patrik Blomquist, PhD, RTTP, Business advisor, KI Innovations and Frida Henningsson Johnson, PhD, Business Advisor, UU Innovation introduced the following topics:
+
+- NABC description
+- Target groups, stakeholders (Research funding bodies, Investor, Industry, Academic Board…)
+
+<iframe style="border: none;" title="Iframe Example" src="https://drive.google.com/file/d/1nOX5fPUfrja6CcGPlhCS8CuAk7cGKWwz/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+### Pitching practice
+The pitching exercise is outlined in the slides given on the NABC model. Example pitches were given by the Innovation experts Patrik Blomquist, Business Advisor and Elin Almstedt, Navigare Ventures, Principal Life Science. 
+
+One hour was alloted for participants to fill out the NABC framework, decide on their target audience, and create a one minute pitch to present to the larger group.
+
+Lastly, all participants delivered their individual 1 minute pitches and received feedback from the innovation coaches on how well it followed the pitching structure as well as areas of particular success or improvement.
+
 ### Citation
-The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+<!-- The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a> -->
 
 Please cite this material as:
 
-> Hilner, E. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Session 1 - Science Communication*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session1.html. DOI: (pending)
+> Blomqvist, B., Henningson Johnson, F., Moshfegh, A., Svensson, S., and Ridderstad Wollberg, A. (2026). *SciLifeLab PULSE Transferrable Skills Training Workshop 4 - Entrepreneurial Mindset 101: Pitch a project*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/workshop-s4.html. DOI: (pending)
 
-If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se -->
+If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
