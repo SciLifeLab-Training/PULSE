@@ -1,1 +1,1 @@
-Sitemap: https://scilifelab-training.github.io/PULSE/0001/sitemap.xml
+Sitemap: https://scilifelab-training.github.io/PULSE/sitemap.xml

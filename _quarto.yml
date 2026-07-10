@@ -7,7 +7,7 @@ project:
 #    - "!slides/quarto/sample/*.qmd"
 
 website:
-  site-url: "https://scilifelab-training.github.io/PULSE/0001/"
+  site-url: "https://scilifelab-training.github.io/PULSE/"
   open-graph: true
   description: "SciLifeLab PULSE is a Marie Skłodowska-Curie Actions cofund postdoctoral program."
   image: ""
@@ -49,7 +49,7 @@ website:
   #      aria-label: "GitHub"
   page-footer:
     border: false
-    left: 'Source code adapted from [NBIS 2025]() • [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)'
+    left: 'Source code adapted from [NBIS 2025](https://github.com/NBISweden/raukr-2025) • [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)'
     right: "Published with [Quarto](https://quarto.org/) v{{< meta quarto_version >}}"
   # announcement:
   #   icon: info-circle

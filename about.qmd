@@ -28,7 +28,7 @@ The PULSE Training website hosts training modules developed for the PULSE postdo
 
 ![](assets/images/profile/jessica-lindvall.jpg){.nolightbox}
 
-[Jessica Lindvall](http://www.cbc.ca/)  
+[Jessica Lindvall]()  
 PULSE Training Director
 
 :::
@@ -36,7 +36,7 @@ PULSE Training Director
 
 ![](assets/images/profile/kristen-schroeder.png){.nolightbox}
 
-[Steve Student](https://www.katalog.uu.se/profile?id=N11-2322)  
+[Kristen Schroeder]()  
 Training Coordinator, Transferrable Skills Training
 
 :::
@@ -44,7 +44,7 @@ Training Coordinator, Transferrable Skills Training
 
 ![](assets/images/profile/anna-r-w.jpg){.nolightbox}
 
-[Anna Ridderstad Wollberg](https://www.katalog.uu.se/empinfo/?id=N14-525)  
+[Anna Ridderstad Wollberg]()  
 Training Coordinator, Entrepreneurial Track
 
 

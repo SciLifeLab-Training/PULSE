@@ -41,7 +41,7 @@ format:
 ## Learn
 Watch the following interview with Dr. Linda Kvastad, co-founder of [The Coaching in Science Initiative](https://www.thecoachinginscienceinitiative.org) and postdoctoral fellow at the Karolinska Institute.
 
-<p align="center"><iframe width="560" height="315" src="https://youtu.be/Ne4HV3linvU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ne4HV3linvU?si=ItPgfGX-WzlP_2fZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 ## Practice
 
@@ -53,21 +53,23 @@ The work of this practice exercise should take a maximum of 1 hour.
 
 #### Step 1 - Your ecosystem of support
 
-The ResearchComp framework lists enduring failures and having a high tolerance for stress as competencies. Being able to do this requires individual researchers to have good, strong support. 
+The ResearchComp framework lists enduring failures and having a high tolerance for stress as competencies. Being able to do this requires individual researchers to have strong support systems. 
 
-Below is a representation of a support ecosystem or web, where different relationships, skills, and environment combine to support an individual's wellbeing:
+Below is a representation of a support ecosystem or web, where different relationships, skills, and environments[^1] combine to support an individual's wellbeing:
 
 ![](assets/images/ecosystemofsupport.png){height="500px" fig-align="center"}
+
+Consider the following:
 
 - Which nodes of this web are the strongest for you? 
 - What makes them strong supports? 
 - Is there any node you would like to be stronger?
-- For the node of Coping Skills Toolbox, what kind of support have you developed here?
+- What kind of support have you developed within the Coping Skills Toolbox?
 
 ::: {.callout}
 Some examples of coping tools you may have encountered:
 
-- Journalling, for example [Struthless's VOMIT system](https://youtu.be/XJa7sE5Q1QA?si=DWZKoIcjd1KQRun_)
+- Journalling (for one colourful example, check out [Struthless's VOMIT system](https://youtu.be/XJa7sE5Q1QA?si=DWZKoIcjd1KQRun_))
 - Guided meditations
 - Setting and maintaining [clear boundaries](https://www.thecoachinginscienceinitiative.org/boundary-setting)
 - Mindfulness or other parasympathetic nervous system practices
@@ -75,10 +77,11 @@ Some examples of coping tools you may have encountered:
 :::
 
 #### Step 2 - Coping with stress in teams
-In the interview, Linda speaks about how the research team is a resource to draw on for mental strength in uncertain research projects[^1]. [The Coaching in Science Initiative](https://www.thecoachinginscienceinitiative.org) has recently delivered workshops on psychological safety in teams, and cites the work of [Dr. Amy C. Edmonson](https://amycedmondson.com/psychological-safety/). In conditions of high uncertainty and high interdependence, Edmonson talks about how creating an environment with psychological safety is crucial for excellence[^2].
+In the interview, Linda speaks about how the research team is a resource to draw on for mental strength in uncertain research projects[^2]. [The Coaching in Science Initiative](https://www.thecoachinginscienceinitiative.org) has recently delivered workshops on psychological safety in teams, and cites the work of [Dr. Amy C. Edmonson](https://amycedmondson.com/psychological-safety/). In conditions of high uncertainty and high interdependence, Edmonson talks about how creating an environment with psychological safety is crucial for excellence[^3].
 
-[^1]: See the [Project Management](session2.qmd) webinar for more on planning for uncertainty.
-[^2]: See [Dr. Edmonson's TEDx Talk](https://youtu.be/LhoLuui9gX8?si=NFNVoqiXBMb4mw31) for a short primer on psychological safety.
+[^2]: See the [Project Management](session2.qmd) webinar for more on planning for uncertainty.
+[^3]: See [Dr. Edmonson's TEDx Talk](https://youtu.be/LhoLuui9gX8?si=NFNVoqiXBMb4mw31) for a short primer on psychological safety.
+[^1]: For a review on how experiencing nature restores cognitive capacity, see [Bell et al. 2026](https://doi.org/10.1016/j.jenvp.2025.102632).
 
 Take an inventory of how you contribute to a psychologically safe team by answering the following questions:
 
@@ -89,9 +92,9 @@ Take an inventory of how you contribute to a psychologically safe team by answer
 3. How comfortable are you with you asking questions and expressing curiosity? 
 
 #### Step 3 - Hypothetical situation
-A lab with a highly competitive culture sends Steve, a PhD student at the peak of their fourth year PhD-induced stress to work with you in a lab exchange. You are leading this project, and two bachelor's students from your own group, Francisco and Xiaobei, will be working on the project with you.
+A lab with a highly competitive culture sends Steve, a PhD student at the peak of their fourth year PhD-induced stress[^4], to work with you in a lab exchange. You are leading this project, and two bachelor's students from your own group, Francisco and Xiaobei, will be working on the project with you.
 
-- In a short writing piece (less than one page), describe what actions could you take to help build an environment of psychological safety when leading this new collaboration? 
+- In a short writing piece (less than one page), what actions could you take to help build an environment of psychological safety when leading this new collaboration? 
 
 ::: {.callout-tip}
 If you're stuck, think of how data would be shared, contributions would be acknowledged, how you would hold progress meetings, and what behaviours you would model when you or one of the students makes a mistake!
@@ -105,12 +108,13 @@ If you're stuck, think of how data would be shared, contributions would be ackno
 #### Three (optional!) exercises for coping with stress
 If you're interested in deepening your practice of stress management, here are three additional exercises:
 
-1. Watch [Anna Månberg's CSI Seminar](https://youtu.be/e_ZToVdzZYY?si=mgMuuNzvwJBwgItx) on the balance between stress and recovery, and her own experience of burnout. 
+1. Watch [Anna Månberg's CSI Seminar](https://youtu.be/e_ZToVdzZYY?si=mgMuuNzvwJBwgItx) on the balance between stress and recovery, and her own experience of burnout. Do you recognize any aspects of her story?
 
-2. Read [the study](https://doi.org/10.1016/j.jhealeco.2025.103070) (and/or the [University of Gothenburg press release](https://www.gu.se/en/news/sharp-increase-in-psychiatric-medication-among-phd-students)) on the impact of PhD studies on mental health. 
+2. Read [the study by Bergvall et al.](https://doi.org/10.1016/j.jhealeco.2025.103070) (and/or the [University of Gothenburg press release](https://www.gu.se/en/news/sharp-increase-in-psychiatric-medication-among-phd-students)) on the impact of PhD studies on mental health. 
 
 3. Make a list of mental health tools and resources that are available to you, including those from your University, SciLifeLab, and the healthcare system in Sweden. Share it with your lab group and ask for additions.
 
+[^4]: [Bergvall et al., 2025](https://doi.org/10.1016/j.jhealeco.2025.103070)
 
 ### Citation
 The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
