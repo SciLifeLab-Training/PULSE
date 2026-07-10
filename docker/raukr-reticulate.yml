@@ -1,0 +1,15 @@
+name: raukr-reticulate
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+dependencies:
+  - python=3.12 
+  - conda-forge::pandas=2.2.1 
+  - conda-forge::sqlalchemy=2.0.30 
+  - conda-forge::scikit-learn=1.6.1
+#  - pytorch::pytorch=2.5.1
+  - conda-forge::pip
+  - pip:
+      - ensembl-rest
+#      - transformers

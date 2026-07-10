@@ -1,0 +1,303 @@
+[
+  {
+    "objectID": "workshop-s3.html",
+    "href": "workshop-s3.html",
+    "title": "Session 3 - Research Culture: Bias, Inclusivity, and Equality in Science",
+    "section": "",
+    "text": "ResearchComp competencies developed in this session\n\n\n\n\n\n\n\n    \n        Foundational\n        Intermediate\n    \n        1. Interact professionally\n    \n    \n        • Listens to other people’s ideas with no prejudice\n        • Embraces behaviours that foster effective and positive interactions with colleagues in a goal-oriented manner.\n    \n    \n        3. Work in teams\n    \n    \n        • Appreciate the impact of own behaviour on teamwork.\n        • Understands own priorities and those of own coworkers, creates a cooperative work environment\n    \n        \n        4. Ensure wellbeing at work\n    \n    \n        • Understands the link between work, physical and mental health, and wellbeing.\n        • Assists colleagues manage pressure and stress and contributes to a healthy work environment.\n    \n    \n        6. Promote inclusion and diversity\n    \n    \n        • Appreciates the importance of diversity and how it benefits complex research projects.\n        • Is open-minded about diverging perspectives, and sensible and respectful to individual differences.\n        • Understands diversity and equality requirements of institutions.\n        • Actively works with diversity projects.\n        • Keeps up to date on research and findings about the benefits and challenges of working with diversity\n        • Works exclusively in teams and collaboration partnerships that respect inclusiveness and diversity"
+  },
+  {
+    "objectID": "workshop-s3.html#footnotes",
+    "href": "workshop-s3.html#footnotes",
+    "title": "Session 3 - Research Culture: Bias, Inclusivity, and Equality in Science",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nCarnes, M., Devine, P.G., Baier Manwell, L., Byars-Winston, A., Fine, E., Ford, C.E., Forscher, P., Isaac, C., Kaatz, A., Magua, W., et al. (2015). The Effect of an Intervention to Break the Gender Bias Habit for Faculty at One Institution: A Cluster Randomized, Controlled Trial. Academic Medicine 90, 221–230. https://doi.org/10.1097/ACM.0000000000000552.↩︎\nJohnson, A. (2024). How to design research-aligned DEI interventions in physics. Preprint at arXiv, https://doi.org/10.48550/ARXIV.2406.01390.↩︎"
+  },
+  {
+    "objectID": "workshop-s1.html",
+    "href": "workshop-s1.html",
+    "title": "Session 1 - Beyond the Bench: Impact of Science on Industry, Policy & Society",
+    "section": "",
+    "text": "coming soon\n\n\n\nModule published: March 10, 2026"
+  },
+  {
+    "objectID": "session3.html",
+    "href": "session3.html",
+    "title": "Session 3 - Open Data: Challenges and Opportunties",
+    "section": "",
+    "text": "ResearchComp competencies developed in this session\n\n\n\n\n\n\n\n    \n        Foundational\n        Intermediate\n    \n        1. Manage research data\n    \n    \n        • Identifies sources of information, and assesses if data is trustworthy, valid, reliable and pertinent.\n        • Uses, transforms, and analyses non-sensitive research data transparently and to legal and privacy requirements. \n        • Organises data sets to be FAIR, and easily stored and retrieved in a structured environment.\n        • Trains and empowers other team members to work with data in a structured, transparent, and accessible way. \n    \n    \n        2. Promote citizen science\n    \n    \n        • Understands that citizens are knowledge-holders with the ability to contribute to the research process in some areas of research.\n        • Is inclusive and transparent in the research process and understands how best to engage with citizens in each specific context."
+  },
+  {
+    "objectID": "session3.html#learn",
+    "href": "session3.html#learn",
+    "title": "Session 3 - Open Data: Challenges and Opportunties",
+    "section": "Learn",
+    "text": "Learn\nWatch the following interview with Dr. Bastian Greshake Tzovaras, Independent Researcher in participatory research, who works with Open Data and governance of Open projects."
+  },
+  {
+    "objectID": "session3.html#practice",
+    "href": "session3.html#practice",
+    "title": "Session 3 - Open Data: Challenges and Opportunties",
+    "section": "Practice",
+    "text": "Practice\n\n\n\n\n\n\nNote\n\n\n\nThe work of this practice exercise should take a maximum of 1 hour.\n\n\n\nStep 1 - Identify a dataset that has relevance for your research\n\nThis could be from a Zenodo search, the UK Biobank, an iNaturalist project, the SciLifeLab Data Repository, or other sources.\nIt does not have to replace an experiment that you have planned, but could complement the data you are producing by facilitating a pilot experiment, meta-analysis, or another use.\n\n\n\nStep 2 - Assess the metadata of this dataset\n\nCan you understand:\n\nwhat the purpose of the dataset is\nwho collected or generated the dataset\nhow and when the data were collected\nany data processing or quality assurance that occurred\nthe format of the data\n\n\n\n\nStep 3 - Create a one-page document evaluating if you would reuse this or generate your own data.\n\nYou can write, draw, diagram, create a table, a slide, or a graphic to document your evaluation\nThe document should evaluate:\n\nWould you need to generate additional data, or could you totally or partially reuse this dataset?\nAre there any concerns you would have with reusing data collected by other researchers?\nWill the data you produce be able to be reused by other researchers?\nWho decides if your data can be reused?\nAny reflections you have on data production and sustainability."
+  },
+  {
+    "objectID": "session3.html#discuss",
+    "href": "session3.html#discuss",
+    "title": "Session 3 - Open Data: Challenges and Opportunties",
+    "section": "Discuss",
+    "text": "Discuss\n\nAt the webinar, your facilitators will lead a discussion about your experience of this exercise.\nIf you are facilitating, please take a look at the Facilitation Guide."
+  },
+  {
+    "objectID": "session3.html#next-level",
+    "href": "session3.html#next-level",
+    "title": "Session 3 - Open Data: Challenges and Opportunties",
+    "section": "Next level",
+    "text": "Next level\n\nFour (optional!) exercises for Open Data\nIf you’re interested in deepening your expertise within Open Data, here are four additional exercises:\n\nWatch this lecture from Lynda Kellam of the Data Rescue Project, part of the KTH Seminar Series on Democracy and Academic Freedom. Reflect on when public data should be preserved or deleted.\nRead this article in Science about the UK Biobank’s data breach. How would you respond if your data was leaked?\nReview the section ‘Can you trust the data?’ in this slideshow on Data Reuse given by David Rayner from the Swedish National Data Service. Did the dataset you chose fulfill the checklist requirements?\nThe Open Science in the Swedish Context and Intro to Data Management Practices courses are excellent SciLifeLab offerings to develop your knowledge on Open Science and Data Management. Email the course coordinator and ask to be notified when the next registration opens!\n\n\n\nCitation\nThe materials from this session are available for reuse under \nPlease cite this material as:\n\nGreshake Tzovaras, B., Luijten, I. and Schroeder, K. (2026). SciLifeLab PULSE Transferrable Skills Training Session 3 - Open Data: Challenges and Opportunities. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session3.html. DOI: (pending)\n\nIf you use this material, we’d love to know! Get in touch with us at pulse.training@scilifelab.se\n\n\nModule published: May 13, 2026"
+  },
+  {
+    "objectID": "session1.html",
+    "href": "session1.html",
+    "title": "Session 1 - Science Communication",
+    "section": "",
+    "text": "ResearchComp competencies developed in this session\n\n\n\n\n\n\n\n    \n        Foundational\n        Intermediate\n    \n        1. Participate in the publication process\n    \n    \n        • Understands how academics communicate research results\n         \n    \n    \n        2. Disseminate results to the research community\n    \n    \n        • Engages in knowledge exchange\n        • Contributes to promoting the public understanding of own research area\n    \n    \n        4. Communicate to the broad public\n    \n    \n        • Understands and appreciates the value of engaging with the public\n         \n    \n    \n        7. Promote the transfer of knowledge \n    \n    \n         • Appreciates the importance of knowledge exchange within society\n        • Contributes to knowledge exchange within society"
+  },
+  {
+    "objectID": "session1.html#learn",
+    "href": "session1.html#learn",
+    "title": "Session 1 - Science Communication",
+    "section": "Learn",
+    "text": "Learn\nWatch the following interview with Dr. Emelie Hilner, physicist and science communication officer at MAX IV."
+  },
+  {
+    "objectID": "session1.html#practice",
+    "href": "session1.html#practice",
+    "title": "Session 1 - Science Communication",
+    "section": "Practice",
+    "text": "Practice\n\n\n\n\n\n\nNote\n\n\n\nThe work of this practice exercise should take a maximum of 1 hour.\n\n\n\nStep 1 - Identify one science communicator that you think does good work.\n\nIf you’re stuck, some popular science communicators include Dr. Hannah Fry, Dr. David Suzuki, Bill Nye the Science Guy, and Dr. Michelle Wong.\nThere are different types of audience responses that can be generated: Awareness, Enjoyment, Interest, Understanding, and Opinion-forming 1.\n\nHow would you categorize the primary response you have to their content?\n\n\n\n\nStep 2 - Create a short video of yourself sharing your science for a non-scientific audience (length: 1-2 minutes)\n\nDr. Hilner recommends reflecting on the context your science operates in. What challenges are you ultimately trying to solve? What field of exploration are you working in?\nYour video content should be about your area of expertise, and could be explaining a concept, introducing a technique, debunking a misconception, sharing what the best part of your job is, etc.\nThe format can be filming yourself talking, narrating something happening in the lab, narrating an animation, chatting with a colleague, etc.\nYou are very welcome to do this exercise in any language.\n\n\n\n\n\n\n\nImportant\n\n\n\nEnsure you do not film any person or any experimental setups without explicit consent!\n\n\n\n\nStep 3 - Show the video to at least one person from the non-scientific audience\n\nThis can be a friend, someone in your family, a teammate, your kid’s friend’s parent, a bored barista, anyone! You are free to choose whether you post this on social media or keep it locally on your mobile.\nAsk your audience about what kind of response they had to your content. Did they enjoy it? Did they learn something? Did this match the response you hoped to generate?"
+  },
+  {
+    "objectID": "session1.html#discuss",
+    "href": "session1.html#discuss",
+    "title": "Session 1 - Science Communication",
+    "section": "Discuss",
+    "text": "Discuss\n\nAt the webinar, your facilitators will lead a discussion about your experience of this exercise.\nIf you are facilitating, please take a look at the Facilitation Guide."
+  },
+  {
+    "objectID": "session1.html#next-level",
+    "href": "session1.html#next-level",
+    "title": "Session 1 - Science Communication",
+    "section": "Next level",
+    "text": "Next level\n\nFive (optional!) exercises for science communication\nIf you’re interested in deepening your practice of science communication, here are five additional exercises:\n\nRead the latest news article from MAX IV. What AEIOU response do you have to this news piece?\nRead and save these Seven principles for research communication, from Lund University.\nWatch Dr. Michelle Wong’s deep dive into misrepresentation of expert opinion on social platforms, or the ‘appeal to false authority’. Reflect on what sorts of science communication topics you are and are not able to address with your expertise.\nFind the contact information for your University’s press office, and look for information on what they require for a press release.\nFind three markets for science communication relevant to your field. As an example, for a microbiology project this could be The Conversation, The Microbiologist, the Small Things Considered blog, or the Swedish language magazine Tidningen Curie.\n\n\n\nCitation\nThe materials from this session are available for reuse under \nPlease cite this material as:\n\nHilner, E. and Schroeder, K. (2026). SciLifeLab PULSE Transferrable Skills Training Session 1 - Science Communication. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session1.html. DOI: (pending)\n\nIf you use this material, we’d love to know! Get in touch with us at pulse.training@scilifelab.se\n\n\nModule published: Jan 16, 2026."
+  },
+  {
+    "objectID": "session1.html#footnotes",
+    "href": "session1.html#footnotes",
+    "title": "Session 1 - Science Communication",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nAccording to the AEIOU Framework used to evaluate Science Communication effectiveness, first published as Burns, et al. 2003↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
+    "section": "",
+    "text": "The SciLifeLab Program for Future Leaders in Life Science (PULSE) is a Marie Skłodowska-Curie Actions COFUND program designed to connect early-career researchers with opportunities and skills that support long-term career sustainability across sectors.\nThe PULSE training program has been developed using the European Competency Framework for Researchers (ResearchComp). This website contains all training modules and resources developed and delivered in the PULSE program.\n   \n\n\nUpdated: 10-07-2026 at 10:30:26."
+  },
+  {
+    "objectID": "index.html#scilifelab-pulse-training",
+    "href": "index.html#scilifelab-pulse-training",
+    "title": "",
+    "section": "",
+    "text": "The SciLifeLab Program for Future Leaders in Life Science (PULSE) is a Marie Skłodowska-Curie Actions COFUND program designed to connect early-career researchers with opportunities and skills that support long-term career sustainability across sectors.\nThe PULSE training program has been developed using the European Competency Framework for Researchers (ResearchComp). This website contains all training modules and resources developed and delivered in the PULSE program.\n   \n\n\nUpdated: 10-07-2026 at 10:30:26."
+  },
+  {
+    "objectID": "annualworkshop.html",
+    "href": "annualworkshop.html",
+    "title": "Annual Workshop Overview",
+    "section": "",
+    "text": "Info\n\n\n\nThe first PULSE Annual Workshop was held March 10-13, 2026 in Uppsala, Sweden."
+  },
+  {
+    "objectID": "annualworkshop.html#workshop-sessions",
+    "href": "annualworkshop.html#workshop-sessions",
+    "title": "Annual Workshop Overview",
+    "section": "Workshop Sessions",
+    "text": "Workshop Sessions\nThe four transferrable skills sessions of the 2026 PULSE workshop were:\n\n\n\n\n\n\n\n\nSession Title\n\n\n\n\n1\nBeyond the Bench: Impact of Science on Industry, Policy & Society\n\n\n2\nEthics for Future Leaders\n\n\n3\nResearch Culture: Bias, Inclusivity, and Equality in Science\n\n\n4\nEntrepreneurial Mindset 101: Pitch a project\n\n\n\nThe meeting also included one full day of research presentations and discussion to support interactions between group leaders, postdocs, and others."
+  },
+  {
+    "objectID": "TSTwebinars.html",
+    "href": "TSTwebinars.html",
+    "title": "TST Webinar Schedule",
+    "section": "",
+    "text": "The webinars will run on the second-last Friday of the month, afternoons at 14:00\n\nTransferrable Skills Training Webinars - Year 1\n\n\n\n\n\n\n\n\nMonth\nTheme\n\n\n\n\n1\nSustainable science communication\n\n\n3\nProject management and research\n\n\n5\nOpen Data - Challenges and Possibilities\n\n\n8\nCoping with Pressure\n\n\n9\nAlignment with Green Deal Policy\n\n\n11\nDetecting Exploitation Potential\n\n\n\n\n\n\n\n\n\n\nInfo\n\n\n\nThis program will evolve as it is implemented based on feedback from the cohort and other stakeholders!\n\n\n\n\n\nTransferrable Skills Training Webinars - Year 2\n\n\n\n\n\n\n\n\nMonth\nTheme\n\n\n\n\n1\nDeveloping networks and communities\n\n\n3\nOrganizational Learning and sustainable leadership\n\n\n5\nScientific Storytelling\n\n\n8\nWellbeing at work\n\n\n9\nNegotiation in research\n\n\n11\nCommunication for policy\n\n\n\n\n\n\nTransferrable Skills Training Webinars - Year 3\n\n\n\n\n\n\n\n\nMonth\nTheme\n\n\n\n\n1\nCommunication and community - group analysis\n\n\n3\nResearch project management - group analysis\n\n\n5\nMentorship and teaching - group analysis\n\n\n8\nAfter the PULSE program\n\n\n9\n–\n\n\n11\n–"
+  },
+  {
+    "objectID": "TSTwebinars.html#webinar-themes",
+    "href": "TSTwebinars.html#webinar-themes",
+    "title": "TST Webinar Schedule",
+    "section": "",
+    "text": "The webinars will run on the second-last Friday of the month, afternoons at 14:00\n\nTransferrable Skills Training Webinars - Year 1\n\n\n\n\n\n\n\n\nMonth\nTheme\n\n\n\n\n1\nSustainable science communication\n\n\n3\nProject management and research\n\n\n5\nOpen Data - Challenges and Possibilities\n\n\n8\nCoping with Pressure\n\n\n9\nAlignment with Green Deal Policy\n\n\n11\nDetecting Exploitation Potential\n\n\n\n\n\n\n\n\n\n\nInfo\n\n\n\nThis program will evolve as it is implemented based on feedback from the cohort and other stakeholders!\n\n\n\n\n\nTransferrable Skills Training Webinars - Year 2\n\n\n\n\n\n\n\n\nMonth\nTheme\n\n\n\n\n1\nDeveloping networks and communities\n\n\n3\nOrganizational Learning and sustainable leadership\n\n\n5\nScientific Storytelling\n\n\n8\nWellbeing at work\n\n\n9\nNegotiation in research\n\n\n11\nCommunication for policy\n\n\n\n\n\n\nTransferrable Skills Training Webinars - Year 3\n\n\n\n\n\n\n\n\nMonth\nTheme\n\n\n\n\n1\nCommunication and community - group analysis\n\n\n3\nResearch project management - group analysis\n\n\n5\nMentorship and teaching - group analysis\n\n\n8\nAfter the PULSE program\n\n\n9\n–\n\n\n11\n–"
+  },
+  {
+    "objectID": "TSTwebinars.html#format",
+    "href": "TSTwebinars.html#format",
+    "title": "TST Webinar Schedule",
+    "section": "Format",
+    "text": "Format\nBefore the call:\n\nA video (approximately 30 minutes) of expert-led content will be provided along with any suggested materials or reflective questions.\n\nDuring the call:\n\nThe cohort will split into discussion groups, and discussion will be led by an assigned postdoc moderator.\n\nAfter the call:\n\nAfter the discussion, the postdoc moderators will collaboratively generate a short news piece (maximum 1000 words) representing the Future Leaders’ Perspective.\nThe PULSE communications team will help in publishing this piece on SciLifeLab channels. If the piece is of particular interest and suitability, it may also be submitted to journals or news markets.\n\nThe format of these discussions is designed to build skills in negotiation, moderation, collaboration, critical thinking, and public communication.\nThe moderator role will rotate with each discussion and each postdoc is expected to contribute to moderation and writing once per year."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "PULSE has been specifically designed to connect early-career researchers with opportunities and skills that support long-term career sustainability across sectors. To meet this goal, the PULSE training program has been developed using the European Competency Framework for Researchers (ResearchComp). As such, being or hosting a PULSE postdoc has specific requirements that differ from some traditional postdoctoral training programs.\nThe PULSE Training website hosts training modules developed for the PULSE postdocs. For more information on the program, visit the SciLifeLab PULSE Page"
+  },
+  {
+    "objectID": "about.html#scilifelab-pulse-training",
+    "href": "about.html#scilifelab-pulse-training",
+    "title": "About",
+    "section": "",
+    "text": "PULSE has been specifically designed to connect early-career researchers with opportunities and skills that support long-term career sustainability across sectors. To meet this goal, the PULSE training program has been developed using the European Competency Framework for Researchers (ResearchComp). As such, being or hosting a PULSE postdoc has specific requirements that differ from some traditional postdoctoral training programs.\nThe PULSE Training website hosts training modules developed for the PULSE postdocs. For more information on the program, visit the SciLifeLab PULSE Page"
+  },
+  {
+    "objectID": "about.html#pulse-training-and-career-development-committee",
+    "href": "about.html#pulse-training-and-career-development-committee",
+    "title": "About",
+    "section": "PULSE Training and Career Development Committee",
+    "text": "PULSE Training and Career Development Committee\n\n\n\nJessica Lindvall\nPULSE Training Director\n\n\n\nSteve Student\nTraining Coordinator, Transferrable Skills Training\n\n\n\nAnna Ridderstad Wollberg\nTraining Coordinator, Entrepreneurial Track\n\n\nThe PULSE Training and Career Development Committee develops and coordinates PULSE training, in collaboration with the PULSE Program Office and the PULSE Management Group.\nTo reach the TCDC, write to us at pulse.training[at]scilifelab.se.\nFor all other inquiries, contact the PULSE program office at pulse[at]scilifelab.se.\n\n\nN.B. PULSE is funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency. Neither the European Union nor the granting authority can be held responsible for them. The modules of SciLifeLab PULSE Training are licensed under CC BY 4.0"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Info\n\n\n\nHere are some tips to get started with the PULSE Transferrable Skills Training Program."
+  },
+  {
+    "objectID": "resources.html#building-scientific-influence",
+    "href": "resources.html#building-scientific-influence",
+    "title": "Resources",
+    "section": "Building Scientific Influence",
+    "text": "Building Scientific Influence\nBuilding a public-facing presence with influence can take time. If social media is a tool you are interested in to make contacts at conferences, communicate your research highlights, or follow scientific leaders, we suggest creating a Bluesky account1 and/or LinkedIn account.\nDon’t forget to follow SciLifeLab!    ."
+  },
+  {
+    "objectID": "resources.html#collaborate-and-share",
+    "href": "resources.html#collaborate-and-share",
+    "title": "Resources",
+    "section": "Collaborate and Share",
+    "text": "Collaborate and Share\nWe have set up a Zotero library for PULSE postdocs to collect citations during the Transferrable Skills Training Program. All citations used in the training material can be found in this library.\nWe have added a few references and interesting articles on career assessment, ECR in Sweden, and the culture of science. Request an invitation to add articles you have found interesting for career development and leadership."
+  },
+  {
+    "objectID": "resources.html#citations",
+    "href": "resources.html#citations",
+    "title": "Resources",
+    "section": "Citations",
+    "text": "Citations\n\nD S Shiffman, J Wester, Scientists no Longer Find Twitter Professionally Useful, and have Switched to Bluesky, Integrative and Comparative Biology, Volume 65, Issue 3, September 2025, Pages 538–545, https://doi.org/10.1093/icb/icaf127"
+  },
+  {
+    "objectID": "session2.html",
+    "href": "session2.html",
+    "title": "Session 2 - Project Management",
+    "section": "",
+    "text": "ResearchComp competencies developed in this session\n\n\n\n\n\n\n\n\n    \n        Foundational\n        Intermediate\n    \n        2. Manage projects\n    \n    \n        • Is familiar with different project management approaches and tools.\n            • Participates in projects and delivers results according to deadlines.\n        \n        • Effectively uses a broad project management toolkit.\n            • Defines and designs own research projects. \n            • Identifies risks and implements proper mitigation strategies. \n         \n    \n    \n\n\n\n\n\n    \n        Foundational\n        Intermediate\n    \n        3. Plan self-organization\n    \n    \n        • Manages time in own research projects effectively.\n        \n        • Establishes own time management systems."
+  },
+  {
+    "objectID": "session2.html#learn",
+    "href": "session2.html#learn",
+    "title": "Session 2 - Project Management",
+    "section": "Learn",
+    "text": "Learn\nWatch the following interview with Dr. P. Alison Paprica, senior fellow at the University of Toronto, project management professional, author of Research Project Management and Leadership: A handbook for everyone 1, and creator of www.researchpm.com ."
+  },
+  {
+    "objectID": "session2.html#practice",
+    "href": "session2.html#practice",
+    "title": "Session 2 - Project Management",
+    "section": "Practice",
+    "text": "Practice\n\n\n\n\n\n\nNote\n\n\n\nThe work of this practice exercise should take a maximum of 1 hour.\n\n\nFor this module, follow the exercise created by Alison to produce a Work Breakdown Structure for a primary research project.\n\nStep 1 - Choose a WBS Template that works for your project\n\nVisit the Research Project Management Tools and Resources website and download the Work Breakdown Structures powerpoint templates.\nLook at the 7 template Work Breakdown Structures Dr. Paprica has created as examples of how a project might be structured.\n\nsee slide 13 for tips for using this template!\n\nChoose the template that you think fits best for your main research project.\n\n\n\nStep 2 - Fill in the WBS\n\nAdd the name of your main research project, and fill in the different workstreams that are relevant for your research (ie: A, B, C, D, E)\nFeel free to add additional workstreams or remove those that aren’t relevant. For each workstream, write in the specific deliverables for your project (ie: A1, A2, B1…).\n\nA deliverable is defined as a tangible thing that will be produced in the course of a project – think presentations, reports, protocols, webinars, articles, etc.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nYour WBS must remain a one-page document!\n\n\n\n\nStep 3 - Send the WBS to your supervisor\n\nWhen it is complete, send or show your WBS to your supervisor.\nAsk them Alison’s suggested question: If we produce this, and only this, will the project be complete?"
+  },
+  {
+    "objectID": "session2.html#discuss",
+    "href": "session2.html#discuss",
+    "title": "Session 2 - Project Management",
+    "section": "Discuss",
+    "text": "Discuss\n\nAt the webinar, your facilitators will lead a discussion about your experience of this exercise.\nIf you are facilitating, please take a look at the Facilitation Guide."
+  },
+  {
+    "objectID": "session2.html#next-level",
+    "href": "session2.html#next-level",
+    "title": "Session 2 - Project Management",
+    "section": "Next level",
+    "text": "Next level\n\nThree (optional!) exercises for project management\nIf you’re interested in deepening your practice of project management, here are three additional exercises:\n\nRead Research Project Management: A handbook for everyone.\n\nThe book is a comprehensive yet accessible manual for research project management, and the research leader interviews are a valuable window into how 19 leaders approach their work.\nThe book can be borrowed through University Libraries (Stockholm University has a physical copy in the library here), the SciLifeLab Training Hub, or order a copy for your lab!\n\nDownload the Deliverables-based Gantt Schedules template from the Research Project Management Tools and Resources page. Use the deliverables from your WBS to create a schedule for your project.\n\nDo you have enough time to complete everything?\n\nDownload the Progress Tracking Sheets from the Research Project Management Tools and Resources page. Use the deliverables from your WBS to create a tracking sheet for your project.\n\nHow might this help you communicate and manage your projects?\n\n\n\n\nCitation\nThe video from this session is available for reuse under \nThe module activity and Research Project Management tools are created by P. Alison Paprica and are used under \nPlease cite this material as:\n\nPaprica, P.A, and Schroeder, K. (2026). SciLifeLab PULSE Transferrable Skills Training Session 2 - Project Management. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session2.html. DOI: (pending)\n\nIf you use this material, we’d love to know! Get in touch with us at pulse.training@scilifelab.se\n\n\nModule published: Mar 13, 2026."
+  },
+  {
+    "objectID": "session2.html#footnotes",
+    "href": "session2.html#footnotes",
+    "title": "Session 2 - Project Management",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nPaprica, P.A. (2024) Research Project Management and Leadership: A handbook for everyone (University of Toronto Press). ISBN 978-1-4875-4451-5↩︎"
+  },
+  {
+    "objectID": "session4.html",
+    "href": "session4.html",
+    "title": "Session 4 - Coping with Stress",
+    "section": "",
+    "text": "ResearchComp competencies developed in this session\n\n\n\n\n\n\n\n    \n        Intermediate\n        Advanced\n    \n        4. Cope with pressure\n    \n    \n        • Manages challenges and makes decisions under uncertainty\n        • Endures setbacks and failures\n        • Demonstrates high tolerance for stress and pressure\n        • Develops strategies for dealing with uncertainty and adversity\n        • Assists others in challenging and adverse situations\n        • Comfortably makes decisions based on limited information when necessary\n    \n\nNote since all PULSE postdocs have practiced the Foundational competencies by the nature of this program’s mobility requirement, this session deals with ResearchComp competencies at the Intermediate/Advanced level."
+  },
+  {
+    "objectID": "session4.html#learn",
+    "href": "session4.html#learn",
+    "title": "Session 4 - Coping with Stress",
+    "section": "Learn",
+    "text": "Learn\nWatch the following interview with Dr. Linda Kvastad, co-founder of The Coaching in Science Initiative and postdoctoral fellow at the Karolinska Institute."
+  },
+  {
+    "objectID": "session4.html#practice",
+    "href": "session4.html#practice",
+    "title": "Session 4 - Coping with Stress",
+    "section": "Practice",
+    "text": "Practice\n\n\n\n\n\n\nNote\n\n\n\nThe work of this practice exercise should take a maximum of 1 hour.\n\n\n\nStep 1 - Your ecosystem of support\nThe ResearchComp framework lists enduring failures and having a high tolerance for stress as competencies. Being able to do this requires individual researchers to have good, strong support.\nBelow is a representation of a support ecosystem or web, where different relationships, skills, and environment combine to support an individual’s wellbeing:\n\n\n\n\n\n\nWhich nodes of this web are the strongest for you?\nWhat makes them strong supports?\nIs there any node you would like to be stronger?\nFor the node of Coping Skills Toolbox, what kind of support have you developed here?\n\n\n\n\n\n\n\nSome examples of coping tools you may have encountered:\n\nJournalling, for example Struthless’s VOMIT system\nGuided meditations\nSetting and maintaining clear boundaries\nMindfulness or other parasympathetic nervous system practices\nRegular movement, exercise, or engagement with hobbies and/or community activites\n\n\n\n\n\n\nStep 2 - Coping with stress in teams\nIn the interview, Linda speaks about how the research team is a resource to draw on for mental strength in uncertain research projects1. The Coaching in Science Initiative has recently delivered workshops on psychological safety in teams, and cites the work of Dr. Amy C. Edmonson. In conditions of high uncertainty and high interdependence, Edmonson talks about how creating an environment with psychological safety is crucial for excellence2.\nTake an inventory of how you contribute to a psychologically safe team by answering the following questions:\n\nHow comfortable are you with acknowledging the uncertainty of research?\nHow comfortable are you with acknowledging your falliability?\nHow comfortable are you with you asking questions and expressing curiosity?\n\n\n\nStep 3 - Hypothetical situation\nA lab with a highly competitive culture sends Steve, a PhD student at the peak of their fourth year PhD-induced stress to work with you in a lab exchange. You are leading this project, and two bachelor’s students from your own group, Francisco and Xiaobei, will be working on the project with you.\n\nIn a short writing piece (less than one page), describe what actions could you take to help build an environment of psychological safety when leading this new collaboration?\n\n\n\n\n\n\n\nTip\n\n\n\nIf you’re stuck, think of how data would be shared, contributions would be acknowledged, how you would hold progress meetings, and what behaviours you would model when you or one of the students makes a mistake!"
+  },
+  {
+    "objectID": "session4.html#discuss",
+    "href": "session4.html#discuss",
+    "title": "Session 4 - Coping with Stress",
+    "section": "Discuss",
+    "text": "Discuss\n\nAt the webinar, your facilitators will lead a discussion about your experience of this exercise.\nIf you are facilitating, please take a look at the Facilitation Guide."
+  },
+  {
+    "objectID": "session4.html#next-level",
+    "href": "session4.html#next-level",
+    "title": "Session 4 - Coping with Stress",
+    "section": "Next level",
+    "text": "Next level\n\nThree (optional!) exercises for coping with stress\nIf you’re interested in deepening your practice of stress management, here are three additional exercises:\n\nWatch Anna Månberg’s CSI Seminar on the balance between stress and recovery, and her own experience of burnout.\nRead the study (and/or the University of Gothenburg press release) on the impact of PhD studies on mental health.\nMake a list of mental health tools and resources that are available to you, including those from your University, SciLifeLab, and the healthcare system in Sweden. Share it with your lab group and ask for additions.\n\n\n\nCitation\nThe materials from this session are available for reuse under \nPlease cite this material as:\n\nKvastad, L. and Schroeder, K. (2026). SciLifeLab PULSE Transferrable Skills Training Session 4 - Coping with Stress. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session4.html. DOI: (pending)\n\nIf you use this material, we’d love to know! Get in touch with us at pulse.training@scilifelab.se\n\n\nModule published: Jul 10, 2026"
+  },
+  {
+    "objectID": "session4.html#footnotes",
+    "href": "session4.html#footnotes",
+    "title": "Session 4 - Coping with Stress",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nSee the Project Management webinar for more on planning for uncertainty.↩︎\nSee Dr. Edmonson’s TEDx Talk for a short primer on psychological safety.↩︎"
+  },
+  {
+    "objectID": "workshop-s2.html",
+    "href": "workshop-s2.html",
+    "title": "Session 2 - Ethics for Future Leaders",
+    "section": "",
+    "text": "ResearchComp competencies developed in this session\n\n\n\n\n\n\n\n\n    \n        Foundational\n        Intermediate\n    \n        3. Negotiate\n    \n    \n        • Actively seeks to understand the different viewpoints and motivations of the negotiating parties.\n        \n        • Contributes to negotiation strategies by developing scenarios and a clear vision\n    \n    \n\n\n\n\n\n    \n        Foundational\n        Intermediate\n    \n        5. Systemic thinking\n    \n    \n        • Understands the national and international research landscape of own discipline\n        • Understands the research landscape, and the complex interaction between its actors beyond own discipline\n    \n        6. Problem solving\n    \n    \n        \n        \n        • Assesses the effectiveness of own and others’ solutions to research problems.\n        • Formulates and verifies hypotheses addressing a broad range of research problems."
+  },
+  {
+    "objectID": "workshop-s2.html#footnotes",
+    "href": "workshop-s2.html#footnotes",
+    "title": "Session 2 - Ethics for Future Leaders",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nRoffey, R., Lindberg, A., Molin, L., and Wikman-Svahn, P. (2015). A Plausible Worst-Case Scenario of Increasing Multidrug Resistance as a Tool for Assessing Societal Risks and Capabilities in Sweden. Health Security 13, 174–183. https://doi.org/10.1089/hs.2014.0082↩︎"
+  },
+  {
+    "objectID": "workshop-s4.html",
+    "href": "workshop-s4.html",
+    "title": "Session 4 - Entrepreneurial Mindset 101: Pitch a project",
+    "section": "",
+    "text": "ResearchComp competencies developed in this session\n\n\n\n\n\n\nSelf-management\n\n    \n        Foundational\n        Intermediate\n    \n        2. Show entrepreneurial spirit\n    \n    \n        • Demonstrate initiative and seeks opportunities to create value with own research\n         • Understands the potential of commercializing academic research\n        \n        • Performs iterations and tests to get feedback on new ideas\n    \n    \n\n\n\nManaging research tools\n\n    \n        Foundational\n        Intermediate\n    \n        3. Manage intellectual property rights\n    \n    \n        • Understands basic concepts of data ownership rules as they apply to own research\n        \n    \n    \n\n\n\nMaking an impact\n\n    \n        Foundational\n        Intermediate\n    \n        7. Promote the transfer of knowledge\n    \n    \n        • Understands the process of commercial exploitation of research results\n         • Recognizes the value of embedding academia in innovation communities\n        \n        \n    \n    \n\n\n\n\n\n\nStructure\nThis workshop addresses the Swedish innovation system and important steps in the innovation journey of your research. Early understanding of entrepreneurial principles as well as how to package an idea based on NABC (need, approach, benefit, competition) is beneficial when pitching for different target groups.\n\nUnderstanding the different stakeholders in the Swedish innovation system and what support is available.\nUnderstanding the importance of protecting your idea, while performing research and publishing results.\nApplying the knowledge of NABC, when pitching your research or solution proposal to fellow post docs and review panel.\n\n\n\n\n\n\n\n\n\nTime\nFormat\nTitle\n\n\n\n\n10m\nIntroduction\nAnna Ridderstad Wollberg, SciLifeLab DDD Platform\n\n\n45m\nLecture\nThe Innovation Ecosystem\n\n\n15m\nLecture\nNABC, pitching, stakeholders\n\n\n120m\nPitching exercise\nPitch preparation\n\n\n10m\nClosing\nClosing remarks & participant survey\n\n\n\n\n\nThe Innovation Ecosystem\nLars Svensson, Ph.D., Innovation Developer, LU Innovation and Ali Moshfegh Associate professor​ and Senior innovation advisor at LiU Innovation gave a lecture covering the following areas:\n\nProfessor’s privilege\nPublication and patent\nImpact and valorisation\nSwedish innovation support ecosystem\nThe Swedish Principle of Public Access\n\n\n\n\n\nPitching, NABC, stakeholders\nPatrik Blomquist, PhD, RTTP, Business advisor, KI Innovations and Frida Henningsson Johnson, PhD, Business Advisor, UU Innovation introduced the following topics:\n\nNABC description\nTarget groups, stakeholders (Research funding bodies, Investor, Industry, Academic Board…)\n\n\n\n\n\nPitching practice\nThe pitching exercise is outlined in the slides given on the NABC model. Example pitches were given by the Innovation experts Patrik Blomquist, Business Advisor and Elin Almstedt, Navigare Ventures, Principal Life Science.\nOne hour was alloted for participants to fill out the NABC framework, decide on their target audience, and create a one minute pitch to present to the larger group.\nLastly, all participants delivered their individual 1 minute pitches and received feedback from the innovation coaches on how well it followed the pitching structure as well as areas of particular success or improvement.\n\n\nCitation\n\nPlease cite this material as:\n\nBlomqvist, B., Henningson Johnson, F., Moshfegh, A., Svensson, S., and Ridderstad Wollberg, A. (2026). SciLifeLab PULSE Transferrable Skills Training Workshop 4 - Entrepreneurial Mindset 101: Pitch a project. Retrieved from https://scilifelab-training.github.io/PULSE/0001/workshop-s4.html. DOI: (pending)\n\nIf you use this material, we’d love to know! Get in touch with us at pulse.training@scilifelab.se\n\n\nModule published: March 13, 2026"
+  }
+]

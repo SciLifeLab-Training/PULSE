@@ -1,0 +1,103 @@
+---
+title: "Session 3 - Research Culture: Bias, Inclusivity, and Equality in Science"
+pagetitle: "Workshop session 3"
+date: ""
+format:
+  html:
+    toc: true
+    number-sections: false
+---
+
+::: {.callout-tip collapse="true"}
+
+## ResearchComp competencies developed in this session
+
+### Work with others
+
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">1. Interact professionally</th>
+    </tr>
+    <tr>
+        <td>• Listens to other people’s ideas with no prejudice</td>
+        <td>• Embraces behaviours that foster effective and positive interactions with colleagues in a goal-oriented manner.</td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">3. Work in teams</th>
+    </tr>
+    <tr>
+        <td>• Appreciate the impact of own behaviour on teamwork.</td>
+        <td>• Understands own priorities and those of own coworkers, creates a cooperative work environment</td>
+    </tr>
+        <tr>
+        <th colspan="2" style="background-color: #A6CBCF">4. Ensure wellbeing at work</th>
+    </tr>
+    <tr>
+        <td>• Understands the link between work, physical and mental health, and wellbeing.</td>
+        <td>• Assists colleagues manage pressure and stress and contributes to a healthy work environment.</td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">6. Promote inclusion and diversity</th>
+    </tr>
+    <tr>
+        <td>• Appreciates the importance of diversity and how it benefits complex research projects.<br>
+        • Is open-minded about diverging perspectives, and sensible and respectful to individual differences.<br>
+        • Understands diversity and equality requirements of institutions.</td>
+        <td>• Actively works with diversity projects.<br>
+        • Keeps up to date on research and findings about the benefits and challenges of working with diversity<br>
+        • Works exclusively in teams and collaboration partnerships that respect inclusiveness and diversity
+        </td>
+</table>
+
+```
+
+:::
+
+### Structure
+This workshop addresses how research cultures are made, including factors that determine bias, inclusivity and equality in science spaces. The structure of the workshop is adapted from the work of *Carnes et al. 2015*[^1] and *Johnson, 2025*[^2]. Participants will spend time:
+
+- evaluating research culture in different research environments
+- identifying types of bias in research-relevant scenarios
+- developing personal strategies to support equity and inclusivity
+
+| Time | Format | Title |
+|------|------| ------| 
+| 30m | Interactive lecture | Introduction to research culture |
+| 30m | Large group discussion | Identifying 6 types of bias |
+| 30m | Reader's theatre | Case studies |
+| 20m | Large group | Bias replacement strategies
+| 10m | Individual work | Creating individual strategies |
+: {tbl-colwidths="[10, 30, 60]"}
+
+[^1]: Carnes, M., Devine, P.G., Baier Manwell, L., Byars-Winston, A., Fine, E., Ford, C.E., Forscher, P., Isaac, C., Kaatz, A., Magua, W., et al. (2015). The Effect of an Intervention to Break the Gender Bias Habit for Faculty at One Institution: A Cluster Randomized, Controlled Trial. Academic Medicine 90, 221–230. [https://doi.org/10.1097/ACM.0000000000000552](https://doi.org/10.1097/ACM.0000000000000552).
+
+[^2]: Johnson, A. (2024). How to design research-aligned DEI interventions in physics. Preprint at arXiv, [https://doi.org/10.48550/ARXIV.2406.01390](https://doi.org/10.48550/ARXIV.2406.01390).
+
+### Materials
+
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1yEKvN3CYxQ7lWyrncOFWrSQTH-131KCT/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yEKvN3CYxQ7lWyrncOFWrSQTH-131KCT/export/pdf" target="_blank" rel="noopener">Workshop 3: Download PDF</a>
+
+View the [Workshop 3: Reader's Theatre](https://docs.google.com/document/d/1X-zjSp0E10c6bWQHJcBB4ijOni_YPdcS/preview) script, or <a class="inline_disabled" href="https://docs.google.com/document/d/1X-zjSp0E10c6bWQHJcBB4ijOni_YPdcS/export/pdf" target="_blank" rel="noopener">download a PDF</a>
+
+References used in this material can be found in the PULSE [Zotero library](https://www.zotero.org/groups/6236891/pulse_cohort1/library)
+
+
+### Citation
+The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="/assets/images/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite this material as:
+
+>  Folkesson, K. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Workshop 3 - Research culture: Bias, Inclusivity, and Equality in Science*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/workshop-s3.html. DOI: (pending)
+
+If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
+
+---
+::: small
+Module published: March 12, 2026
+:::

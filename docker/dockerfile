@@ -1,0 +1,76 @@
+FROM ghcr.io/rocker-org/geospatial:4.4
+
+LABEL authors="Roy Francis"
+LABEL Description="Ubuntu environment with R, Rstudio, Conda, Mamba and Quarto"
+LABEL org.opencontainers.image.authors="roy.francis@nbis.se"
+LABEL org.opencontainers.image.source="https://github.com/nbisweden/raukr-2025"
+
+#ARG quarto_version="1.6.42"
+ARG LC_ALL="en_US.UTF-8"
+ARG LANG="en_US.UTF-8"
+ARG LANGUAGE="en_US.UTF-8"
+
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+    libcurl4-openssl-dev \
+    libssl-dev \
+    libxml2-dev \
+    libhdf5-dev \
+    libglpk-dev \
+    libxt6 \
+    patch \
+    vim \
+    nano \
+    curl \
+    python3-pip \
+    jupyter \
+    && pip install --break-system-packages PyYAML nbclient \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install R packages
+COPY install_r_pkgs.r /scripts/
+COPY renv.lock /scripts
+# RUN Rscript --verbose -e 'install.packages(c("BiocManager", "dplyr", "jsonlite", "purrr", "renv", "tibble", "tidyr", "rlang", "remotes", "knitr", "rmarkdown"), repos = "https://packagemanager.rstudio.com/all/latest", verbose = TRUE); remotes::install_github("royfrancis/renvtools", upgrade = "never", verbose = TRUE); remotes::install_github("posit-dev/r-shinylive", upgrade = "never", verbose = TRUE)'
+RUN Rscript --verbose -e 'remotes::install_github("royfrancis/renvtools", upgrade = "never", verbose = TRUE); remotes::install_github("posit-dev/r-shinylive", upgrade = "never", verbose = TRUE)'
+RUN Rscript --verbose -e "setwd('/scripts'); source('/scripts/install_r_pkgs.r');" \
+    && rm -rf /tmp/downloaded_packages/ /tmp/*.rds \
+    && Rscript -e 'webshot::install_phantomjs()'
+
+## Install conda
+COPY raukr-reticulate.yml /scripts/
+COPY raukr-keras.yml /scripts/
+RUN wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O /home/rstudio/miniconda.sh \
+    && bash /home/rstudio/miniconda.sh -b -p /home/rstudio/miniconda3 \
+    && rm /home/rstudio/miniconda.sh \
+    && /home/rstudio/miniconda3/bin/conda install -y -c conda-forge mamba \
+    && /home/rstudio/miniconda3/bin/conda init bash \
+    && echo ". /home/rstudio/miniconda3/etc/profile.d/conda.sh" >> /home/rstudio/.bashrc \
+    && echo "conda activate base" >> /home/rstudio/.bashrc \
+    && /home/rstudio/miniconda3/bin/mamba env create -y -f /scripts/raukr-reticulate.yml \
+    && /home/rstudio/miniconda3/bin/mamba env create -y -f /scripts/raukr-keras.yml \
+    # && mamba env create -y -f /scripts/raukr.yml
+    && chown -R rstudio:rstudio /home/rstudio/miniconda3 \
+    && chown rstudio:rstudio /home/rstudio/.bashrc
+
+## Install quarto
+# RUN /rocker_scripts/install_quarto.sh ${quarto_version} \
+RUN quarto install tinytex \
+    && quarto install chromium
+
+RUN apt-get -y autoclean \
+    && apt-get -y autoremove \
+    && rm -rf /var/lib/apt/lists/* \
+    && rm -rf /tmp/* \
+    ## Strip binary installed libraries from RSPM \
+    ## https://github.com/rocker-org/rocker-versioned2/issues/340 \
+    && strip /usr/local/lib/R/site-library/*/libs/*.so \
+    ## Fix https://github.com/tschaffter/rstudio/issues/11 \
+    && ln -s /usr/local/lib/R/lib/libR.so /lib/x86_64-linux-gnu/libR.so \
+    && mkdir -p /home/rstudio/.cache/shinylive /home/rstudio/.cache/quarto /home/rstudio/.cache/R/pkgcache/pkg /home/rstudio/.cache/quarto/sass /tmp/quarto_cache_home /tmp/quarto_data_home \
+    && chmod -R 777 /home/rstudio/.cache /tmp/quarto_cache_home /tmp/quarto_data_home
+
+ENV XDG_CACHE_HOME=/tmp/quarto_cache_home
+ENV XDG_DATA_HOME=/tmp/quarto_data_home
+ENV DISABLE_AUTH=true
+WORKDIR /home/rstudio/work

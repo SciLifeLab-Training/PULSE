@@ -1,0 +1,9 @@
+name: raukr-keras
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10 
+  - conda-forge::tensorflow=2.18.0 
+  - conda-forge::keras=3.9.0
+

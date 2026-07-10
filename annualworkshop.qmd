@@ -1,0 +1,34 @@
+---
+title: "Annual Workshop Overview"
+pagetitle: "SciLifeLab PULSE • Contents"
+description: "Workshop materials from the PULSE Annual Meetings"
+toc: false
+date: ""
+sidebar: false
+format:
+  html:
+    number-sections: false
+execute:
+  freeze: false
+---
+
+::: {.callout-tip}
+### Info
+The first PULSE Annual Workshop was held **March 10-13, 2026** in Uppsala, Sweden. 
+:::
+
+## Workshop Sessions
+The four transferrable skills sessions of the 2026 PULSE workshop were:
+
+| | Session Title | 
+|------|------|
+| 1 | **Beyond the Bench: Impact of Science on Industry, Policy & Society** | 
+| 2 | **[Ethics for Future Leaders](workshop-s2.qmd)** | 
+| 3 | **[Research Culture: Bias, Inclusivity, and Equality in Science](workshop-s3.qmd)** | 
+| 4 | **Entrepreneurial Mindset 101: Pitch a project** | 
+: {tbl-colwidths="[5,95]"} 
+
+
+The meeting also included one full day of research presentations and discussion to support interactions between group leaders, postdocs, and others.
+
+<!-- [[Slides {{< fa circle-chevron-right >}}]{.btn .btn-sm .btn-primary}](slides/index.html) [[Labs {{< fa circle-chevron-right >}}]{.btn .btn-sm .btn-primary}](labs/index.html) -->

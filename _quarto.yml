@@ -1,0 +1,142 @@
+project:
+  type: website
+  output-dir: docs
+  render: 
+    - "*.qmd"
+    - "*.md"
+#    - "!slides/quarto/sample/*.qmd"
+
+website:
+  site-url: "https://scilifelab-training.github.io/PULSE/0001/"
+  open-graph: true
+  description: "SciLifeLab PULSE is a Marie Skłodowska-Curie Actions cofund postdoctoral program."
+  image: ""
+  favicon: "assets/SciLifeLab_symbol_green.png"
+  navbar:
+    logo: "assets/SciLifeLab_Logotype_POS.png"
+#    logo-alt: ""
+    right:
+      - text: Home 
+        href: "index.html"
+        aria-label: "Home"
+      - text: About
+        href: "about.html"
+        aria-label: "About"
+      - text: "TST Webinars"
+        menu:
+          - TSTwebinars.qmd
+          - session1.qmd
+          - session2.qmd
+          - session3.qmd
+          - session4.qmd 
+        aria-label: "TST Webinars"
+      - text: "Annual Meeting"
+        menu:
+          - annualworkshop.qmd
+          - workshop-s1.qmd
+          - workshop-s2.qmd
+          - workshop-s3.qmd
+          - workshop-s4.qmd
+        aria-label: "Annual Meeting"
+      - text: "Resources"
+        href: "resources.html"
+        aria-label: "Resources"
+#      - text: Gallery
+#        href: "home_gallery.html"
+#        aria-label: "Gallery"
+#      - icon: github
+ #       href: https://github.com/NBISweden/raukr-2025
+  #      aria-label: "GitHub"
+  page-footer:
+    border: false
+    left: 'Source code adapted from [NBIS 2025]() • [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)'
+    right: "Published with [Quarto](https://quarto.org/) v{{< meta quarto_version >}}"
+  # announcement:
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "Registration is now open for RaukR 2025."
+  #   type: primary
+  #   position: above-navbar
+
+format:
+  html:
+    quarto-required: ">=1.4.5"
+    include-in-header: "assets/include_head.html"
+    include-before-body: "assets/include_body_before.html"
+    include_after_body: "assets/include_body_after.html"
+    theme: "assets/css/styles.scss"
+    smooth-scroll: true
+    toc: true
+    toc-depth: 4
+    toc-location: right
+    number-sections: true
+    number-depth: 4
+    code-fold: false
+    code-tools: false
+    code-copy: true
+    code-overflow: wrap
+    df-print: paged
+    standalone: false
+    fig-align: left
+    title-block-banner: "assets/images/banner.png"
+    subtitle: "SciLifeLab PULSE Training"
+    callout-icon: true
+    date:  last-modified
+    date-format: "DD-MMM-YYYY"
+    lightbox:
+      match: auto
+  revealjs:
+    quarto-required: ">=1.4.5"
+    include-in-header: "assets/include_head.html"
+    include-before-body: "assets/include_body_before.html"
+    include_after_body: "assets/include_body_after.html"
+    theme: ["default", "assets/css/slides.scss"]
+    df-print: kable
+    width: 1280
+    height: 720
+    transition: "fade"
+    transition-speed: "fast"
+    smaller: false
+    incremental: false
+    scrollable: false
+    slide-level: 2
+    slide-number: true
+    progress: true
+    date:  last-modified
+    date-format: "DD-MMM-YYYY"
+    fig-align: left
+    chalkboard: true
+    callout-icon: true
+    # hero: "/assets/images/hero.webp"
+    title-slide-attributes:
+      data-background-image: "/assets/images/cover.webp"
+      data-background-size: "cover"
+      data-background-opacity: "1"
+    subtitle: "SciLifeLab PULSE"
+    header-logo-left: /assets/SciLifeLab_Logotype_POS.png
+    header-logo-left-height: 25px
+#    header-logo-left-url: https://nbisweden.github.io/raukr-2025/slides/index.html
+    header-logo-right: /assets/SciLifeLab_Logotype_POS.png
+    header-logo-right-height: 25px
+#    header-logo-right-url: https://nbisweden.github.io/raukr-2025/home_contents.html
+#    template-partials:
+#      - "/assets/title-slide.html"
+
+execute:
+  eval: true
+  echo: true
+  warning: false
+  message: false
+  freeze: true
+
+knitr:
+  opts_chunk:
+    results: hold
+
+filters:
+  - assets/custom.lua
+  - assets/fold-results.lua
+  - reveal-logo
+  - fontawesome
+  - accordion
+
