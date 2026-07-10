@@ -1,7 +1,15 @@
 # SciLifeLab PULSE Training Website
-[![DOI](here)](here)  
-**Website for the SciLifeLab Program for Future Leaders •**
 
+This repository consolidates training information for PULSE postdocs, their supervisors, and anyone else interested in seeing what is going on!
 
----
-This website design is adapted from that developed by Roy Francis for the NBIS RaukR course.
+The website is maintained by the PULSE Training and Development Committee (TCDC).
+
+For more information on this program, visit www.scilifelab.se/PULSE
+
+## Information
+|||
+|:---|:---|
+| Status | under development |
+| Version |  none |
+| Date of last revision | August 29, 2025 |
+| Modification contact person |  traininghub@scilifelab.se |
