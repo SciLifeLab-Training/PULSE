@@ -1,7 +1,11 @@
 ---
-title: "Annual Meeting Session 2 - Ethics for Future Leaders"
-author: "PULSE TCDC"
-date: March 11, 2026
+title: "Session 2 - Ethics for Future Leaders"
+pagetitle: "Workshop session 2"
+date: ""
+format:
+  html:
+    toc: true
+    number-sections: false
 ---
 
 ::: {.callout-tip collapse="true"}
@@ -15,7 +19,7 @@ date: March 11, 2026
         <th>Foundational</th>
         <th>Intermediate</th>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">3. Negotiate</th>
+        <th colspan="2" style="background-color: #A6CBCF">3. Negotiate</th>
     </tr>
     <tr>
         <td>• Actively seeks to understand the different viewpoints and motivations of the negotiating parties.
@@ -32,13 +36,13 @@ date: March 11, 2026
         <th>Foundational</th>
         <th>Intermediate</th>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">5. Systemic thinking</th>
+        <th colspan="2" style="background-color: #A6CBCF">5. Systemic thinking</th>
     </tr>
     <tr>
         <td>• Understands the national and international research landscape of own discipline</td>
         <td>• Understands the research landscape, and the complex interaction between its actors beyond own discipline</td>
     </tr>
-        <th colspan="2" style="background-color: #D2C7D4">6. Problem solving</th>
+        <th colspan="2" style="background-color: #A6CBCF">6. Problem solving</th>
     </tr>
     <tr>
         <td>
@@ -81,7 +85,7 @@ The slides of this lecture can be accessed [here](https://drive.google.com/file/
 
 The app is developed by Gustav Hägg at Malmö University, and can be accessed [here](https://start-up-ethics-hagggustav.replit.app) or by the QR code below.
 
-![](img/QR-ethicsgame.png){ width=10% }
+![](/assets/images/QR-ethicsgame.png){ width=10% }
 
 ### Model Forum - Preparing Sweden for an AMR Outbreak 
 **Model forum:** This model forum is preparation for and synthesis of a joint strategy that encompasses the needs of five different government agencies. The content of the forum is adapted from the work of *Roffey et al. 2015*[^1].
@@ -102,10 +106,15 @@ References used in this material can be found in the PULSE [Zotero library](http
 [^1]: Roffey, R., Lindberg, A., Molin, L., and Wikman-Svahn, P. (2015). A Plausible Worst-Case Scenario of Increasing Multidrug Resistance as a Tool for Assessing Societal Risks and Capabilities in Sweden. Health Security 13, 174–183. [https://doi.org/10.1089/hs.2014.0082](https://doi.org/10.1089/hs.2014.0082)
 
 ### Citation
-The structure and materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+The structure and materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="/assets/images/CCBY4.0.png" alt="" height="20"/></a>
 
 Please cite this material as:
 
 > Helgesson, CF. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Workshop 2 - Ethics for Future Leaders*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/workshop-s2.html. DOI: (pending)
 
 If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
+
+---
+::: small
+Module published: March 11, 2026
+:::

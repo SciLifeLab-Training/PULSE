@@ -1,2 +1,15 @@
 /.quarto/
-/_site/
+.DS_Store
+**/.DS_Store
+**/.Rhistory
+*.code-workspace
+**/.ipynb_checkpoints
+/.luarc.json
+**/*_cache/
+**/__pycache__
+slides/**/*_files
+labs/**/*_files
+**/*.fq
+todo.txt
+**/.quarto/
+.Rproj.user

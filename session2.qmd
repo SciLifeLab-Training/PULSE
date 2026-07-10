@@ -1,7 +1,11 @@
 ---
 title: "Session 2 - Project Management"
-author: "PULSE TCDC"
-date: Mar 13, 2026
+pagetitle: "SciLifeLab PULSE Training • Webinar 2"
+date: ""
+format:
+  html:
+    toc: true
+    number-sections: false
 ---
 
 ::: {.callout-tip collapse="false"}
@@ -16,7 +20,7 @@ date: Mar 13, 2026
         <th>Foundational</th>
         <th>Intermediate</th>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">2. Manage projects</th>
+        <th colspan="2" style="background-color: #A6CBCF">2. Manage projects</th>
     </tr>
     <tr>
         <td>• Is familiar with different project management approaches and tools.<br>
@@ -37,7 +41,7 @@ date: Mar 13, 2026
         <th>Foundational</th>
         <th>Intermediate</th>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">3. Plan self-organization</th>
+        <th colspan="2" style="background-color: #A6CBCF">3. Plan self-organization</th>
     </tr>
     <tr>
         <td>• Manages time in own research projects effectively.<br>
@@ -55,7 +59,7 @@ date: Mar 13, 2026
 ## Learn
 Watch the following interview with Dr. P. Alison Paprica, senior fellow at the University of Toronto, project management professional, author of Research Project Management and Leadership: A handbook for everyone [^1], and creator of [www.researchpm.com](https://www.researchpm.com) .
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rDlewEUj4f8?si=Iutc1EfruPz-ofrV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/rDlewEUj4f8?si=Iutc1EfruPz-ofrV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 [^1]: Paprica, P.A. (2024) Research Project Management and Leadership: A handbook for everyone (University of Toronto Press). [ISBN 978-1-4875-4451-5](https://utppublishing.com/doi/book/10.3138/9781487544461)
 
@@ -121,3 +125,8 @@ Please cite this material as:
 > Paprica, P.A, and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Session 2 - Project Management*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session2.html. DOI: (pending)
 
 If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
+
+---
+::: small
+Module published: Mar 13, 2026.
+:::

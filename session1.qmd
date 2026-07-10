@@ -1,7 +1,11 @@
 ---
 title: "Session 1 - Science Communication"
-author: "PULSE TCDC"
-date: Jan 16, 2026
+pagetitle: "SciLifeLab PULSE Training • Webinar 1"
+date: ""
+format:
+  html:
+    toc: true
+    number-sections: false
 ---
 
 ::: {.callout-tip collapse="false"}
@@ -16,28 +20,28 @@ date: Jan 16, 2026
         <th>Foundational</th>
         <th>Intermediate</th>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">1. Participate in the publication process</th>
+        <th colspan="2" style="background-color: #A6CBCF">1. Participate in the publication process</th>
     </tr>
     <tr>
         <td>• Understands how academics communicate research results</td>
         <td> </td>
     </tr>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">2. Disseminate results to the research community</th>
+        <th colspan="2" style="background-color: #A6CBCF">2. Disseminate results to the research community</th>
     </tr>
     <tr>
         <td>• Engages in knowledge exchange</td>
         <td>• Contributes to promoting the public understanding of own research area</td>
     </tr>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">4. Communicate to the broad public</th>
+        <th colspan="2" style="background-color: #A6CBCF">4. Communicate to the broad public</th>
     </tr>
     <tr>
         <td>• Understands and appreciates the value of engaging with the public</td>
         <td> </td>
     </tr>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">7. Promote the transfer of knowledge </th>
+        <th colspan="2" style="background-color: #A6CBCF">7. Promote the transfer of knowledge </th>
     </tr>
     <tr>
         <td> • Appreciates the importance of knowledge exchange within society</td>
@@ -52,7 +56,7 @@ date: Jan 16, 2026
 ## Learn
 Watch the following interview with Dr. Emelie Hilner, physicist and science communication officer at MAX IV.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/my2gcQ3WW_I?si=dZyZRSM3tSBdGv0d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/my2gcQ3WW_I?si=dZyZRSM3tSBdGv0d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 ## Practice
 
@@ -105,10 +109,15 @@ If you're interested in deepening your practice of science communication, here a
 
 
 ### Citation
-The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="assets/images/CCBY4.0.png" alt="" height="20"/></a>
 
 Please cite this material as:
 
 > Hilner, E. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Session 1 - Science Communication*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session1.html. DOI: (pending)
 
 If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
+
+---
+::: small
+Module published: Jan 16, 2026.
+:::

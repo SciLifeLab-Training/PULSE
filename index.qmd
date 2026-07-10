@@ -1,36 +1,47 @@
 ---
-title: "SciLifeLab PULSE Training"
-author: "PULSE Training & Career Development Committee"
-date: today
+pagetitle: "PULSE Home"
+subtitle: ""
+toc: false
+date: ""
+sidebar: false
+image: ""
+format:
+  html:
+    css: "assets/css/home.css"
+    number-sections: false
+    title-block-banner: false
+    page-layout: full
+execute:
+  freeze: false
 ---
 
-::: {.callout-warning icon=false}
+::: {.home-container}
+::: {.home-grid-parent}
+::: {.home-grid-child-left}
 
-## Not just another postdoctoral program
-
-PULSE has been specifically designed to connect early-career researchers with opportunities and skills that support long-term career sustainability across sectors. To meet this goal, the PULSE training program has been developed using the [European Competency Framework for Researchers (ResearchComp)](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en). As such, being or hosting a PULSE postdoc has specific requirements that differ from some traditional postdoctoral training programs.
-
->By the end of the PULSE program, all PULSE postdocs are expected to be able to demonstrate foundational to intermediate competencies in all ResearchComp areas, and advanced to expert competencies in at least one competency area of interest.
-
-This website provides updated information as the PULSE Training program is deployed, and is intended primarily for PULSE postdoctoral fellows, but also for their group leaders, the PULSE consortium, and anyone who would like to follow the training!
+## [SciLifeLab PULSE Training]{.large}
+### Not your average postdoctoral program
+:::{style="margin-bottom:1em;"}
 
 :::
 
+The SciLifeLab Program for Future Leaders in Life Science (PULSE) is a Marie Skłodowska-Curie Actions COFUND program designed to connect early-career researchers with opportunities and skills that support long-term career sustainability across sectors. 
 
-The PULSE Training & Career Development Committee can be reached at pulse.training@scilifelab.se
+The PULSE training program has been developed using the [European Competency Framework for Researchers](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en) (ResearchComp). This website contains all training modules and resources developed and delivered in the PULSE program.
 
-## Current status
+![](assets/logos/SciLifeLab-green.png){height="1.5em"} &nbsp;   ![](assets/logos/EN_Co-fundedbytheEU_RGB_POS.png){height="1.5em" style="margin-bottom:-3px;"}
 
-Session 3 of the Transferrable Skills Training Webinars is now available!
+---
 
-## Important Dates 
+::: small
+Updated: {{< meta current_date >}} at {{< meta current_time >}}.
+:::
 
-| Date | Event |
-|----|----|
-| TBD | TST Webinar 4, 14:00 |
-| May 22, 2026 | TST Webinar 3, 14:00 ([Assignment](session3.qmd))|
-| March 20, 2026 | TST Webinar 2, 14:00 ([Assignment](session2.qmd)) |
-| March 10-13, 2026 | PULSE Annual Meeting - Uppsala |
-|January 23, 2026 | First TST Webinar (afternoon, 14:00) ([Assignment](session1.qmd))  |
-: {tbl-colwidths="[30,70]"}
+:::
+:::{.home-grid-child-right}
 
+![](assets/images/PULSE.jpeg){.nolightbox}
+
+:::
+:::
+:::

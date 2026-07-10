@@ -1,0 +1,792 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.4.550">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>SciLifeLab PULSE Training • Webinar 1</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./assets/SciLifeLab_symbol_green.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>html{ scroll-behavior: smooth; }</style>
+<style>
+
+      .quarto-title-block .quarto-title-banner {
+        background-image: url(assets/images/banner.png);
+background-size: cover;
+      }
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Fira+Mono:wght@400;500;700&amp;family=Nunito:ital,wght@0,200..1000;1,200..1000&amp;display=swap" rel="stylesheet">
+
+
+<meta property="og:title" content="SciLifeLab PULSE Training • Webinar 1">
+<meta property="og:description" content="SciLifeLab PULSE Training">
+<meta property="og:image" content="">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <img src="./assets/SciLifeLab_Logotype_POS.png" alt="" class="navbar-logo">
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-tst-webinars" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">TST Webinars</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-tst-webinars">    
+        <li>
+    <a class="dropdown-item" href="./TSTwebinars.html">
+ <span class="dropdown-text">TST Webinar Schedule</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./session1.html">
+ <span class="dropdown-text">Session 1 - Science Communication</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./session2.html">
+ <span class="dropdown-text">Session 2 - Project Management</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./session3.html">
+ <span class="dropdown-text">Session 3 - Open Data: Challenges and Opportunties</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./session4.html">
+ <span class="dropdown-text">Session 4 - Coping with Stress</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-annual-meeting" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Annual Meeting</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-annual-meeting">    
+        <li>
+    <a class="dropdown-item" href="./annualworkshop.html">
+ <span class="dropdown-text">Annual Workshop Overview</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./workshop-s1.html">
+ <span class="dropdown-text">Session 1 - Beyond the Bench: Impact of Science on Industry, Policy &amp; Society</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./workshop-s2.html">
+ <span class="dropdown-text">Session 2 - Ethics for Future Leaders</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./workshop-s3.html">
+ <span class="dropdown-text">Session 3 - Research Culture: Bias, Inclusivity, and Equality in Science</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./workshop-s4.html">
+ <span class="dropdown-text">Session 4 - Entrepreneurial Mindset 101: Pitch a project</span></a>
+  </li>  
+    </ul>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./resources.html"> 
+<span class="menu-text">Resources</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title">Session 1 - Science Communication</h1>
+            <p class="subtitle lead">SciLifeLab PULSE Training</p>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#learn" id="toc-learn" class="nav-link active" data-scroll-target="#learn">Learn</a></li>
+  <li><a href="#practice" id="toc-practice" class="nav-link" data-scroll-target="#practice">Practice</a>
+  <ul>
+  <li><a href="#step-1---identify-one-science-communicator-that-you-think-does-good-work." id="toc-step-1---identify-one-science-communicator-that-you-think-does-good-work." class="nav-link" data-scroll-target="#step-1---identify-one-science-communicator-that-you-think-does-good-work.">Step 1 - Identify one science communicator that you think does good work.</a></li>
+  <li><a href="#step-2---create-a-short-video-of-yourself-sharing-your-science-for-a-non-scientific-audience-length-1-2-minutes" id="toc-step-2---create-a-short-video-of-yourself-sharing-your-science-for-a-non-scientific-audience-length-1-2-minutes" class="nav-link" data-scroll-target="#step-2---create-a-short-video-of-yourself-sharing-your-science-for-a-non-scientific-audience-length-1-2-minutes">Step 2 - Create a short video of yourself sharing your science for a non-scientific audience (length: 1-2 minutes)</a></li>
+  <li><a href="#step-3---show-the-video-to-at-least-one-person-from-the-non-scientific-audience" id="toc-step-3---show-the-video-to-at-least-one-person-from-the-non-scientific-audience" class="nav-link" data-scroll-target="#step-3---show-the-video-to-at-least-one-person-from-the-non-scientific-audience">Step 3 - Show the video to at least one person from the non-scientific audience</a></li>
+  </ul></li>
+  <li><a href="#discuss" id="toc-discuss" class="nav-link" data-scroll-target="#discuss">Discuss</a></li>
+  <li><a href="#next-level" id="toc-next-level" class="nav-link" data-scroll-target="#next-level">Next level</a>
+  <ul>
+  <li><a href="#five-optional-exercises-for-science-communication" id="toc-five-optional-exercises-for-science-communication" class="nav-link" data-scroll-target="#five-optional-exercises-for-science-communication">Five (optional!) exercises for science communication</a></li>
+  <li><a href="#citation" id="toc-citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+
+
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="true" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+ResearchComp competencies developed in this session
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse show">
+<section id="making-an-impact" class="level3 callout-body-container callout-body">
+<h3 class="anchored" data-anchor-id="making-an-impact">Making an impact</h3>
+<table>
+    <tbody><tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    </tr><tr>
+        <th colspan="2" style="background-color: #A6CBCF">1. Participate in the publication process</th>
+    </tr>
+    <tr>
+        <td>• Understands how academics communicate research results</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">2. Disseminate results to the research community</th>
+    </tr>
+    <tr>
+        <td>• Engages in knowledge exchange</td>
+        <td>• Contributes to promoting the public understanding of own research area</td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">4. Communicate to the broad public</th>
+    </tr>
+    <tr>
+        <td>• Understands and appreciates the value of engaging with the public</td>
+        <td> </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">7. Promote the transfer of knowledge </th>
+    </tr>
+    <tr>
+        <td> • Appreciates the importance of knowledge exchange within society</td>
+        <td>• Contributes to knowledge exchange within society </td>
+    </tr>
+</tbody></table>
+
+</section>
+</div>
+</div>
+<section id="learn" class="level2">
+<h2 class="anchored" data-anchor-id="learn">Learn</h2>
+<p>Watch the following interview with Dr.&nbsp;Emelie Hilner, physicist and science communication officer at MAX IV.</p>
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/my2gcQ3WW_I?si=dZyZRSM3tSBdGv0d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="">
+</iframe>
+</p>
+</section>
+<section id="practice" class="level2">
+<h2 class="anchored" data-anchor-id="practice">Practice</h2>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The work of this practice exercise should take a maximum of 1 hour.</p>
+</div>
+</div>
+<section id="step-1---identify-one-science-communicator-that-you-think-does-good-work." class="level4">
+<h4 class="anchored" data-anchor-id="step-1---identify-one-science-communicator-that-you-think-does-good-work.">Step 1 - Identify one science communicator that you think does good work.</h4>
+<ul>
+<li>If you’re stuck, some popular science communicators include <a href="https://hannahfry.wstudio.uk">Dr.&nbsp;Hannah Fry</a>, <a href="https://davidsuzuki.org/expert/david-suzuki/">Dr.&nbsp;David Suzuki</a>, <a href="https://www.billnye.com">Bill Nye the Science Guy</a>, and <a href="https://labmuffin.com/about-michelle/">Dr.&nbsp;Michelle Wong</a>.</li>
+<li>There are different types of audience responses that can be generated: Awareness, Enjoyment, Interest, Understanding, and Opinion-forming <a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a>.
+<ul>
+<li>How would you categorize the primary response you have to their content?</li>
+</ul></li>
+</ul>
+</section>
+<section id="step-2---create-a-short-video-of-yourself-sharing-your-science-for-a-non-scientific-audience-length-1-2-minutes" class="level4">
+<h4 class="anchored" data-anchor-id="step-2---create-a-short-video-of-yourself-sharing-your-science-for-a-non-scientific-audience-length-1-2-minutes">Step 2 - Create a short video of yourself sharing your science for a non-scientific audience (length: 1-2 minutes)</h4>
+<ul>
+<li>Dr.&nbsp;Hilner recommends reflecting on the <strong>context</strong> your science operates in. What challenges are you ultimately trying to solve? What field of exploration are you working in?</li>
+<li>Your video content should be about your area of expertise, and could be explaining a concept, introducing a technique, debunking a misconception, sharing what the best part of your job is, etc.</li>
+<li>The format can be filming yourself talking, narrating something happening in the lab, narrating an animation, chatting with a colleague, etc.</li>
+<li>You are very welcome to do this exercise in any language.</li>
+</ul>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Ensure you do not film any person or any experimental setups without explicit consent!</p>
+</div>
+</div>
+</section>
+<section id="step-3---show-the-video-to-at-least-one-person-from-the-non-scientific-audience" class="level4">
+<h4 class="anchored" data-anchor-id="step-3---show-the-video-to-at-least-one-person-from-the-non-scientific-audience">Step 3 - Show the video to at least one person from the non-scientific audience</h4>
+<ul>
+<li>This can be a friend, someone in your family, a teammate, your kid’s friend’s parent, a bored barista, anyone! You are free to choose whether you post this on social media or keep it locally on your mobile.</li>
+<li>Ask your audience about what kind of response they had to your content. Did they enjoy it? Did they learn something? Did this match the response you hoped to generate?</li>
+</ul>
+</section>
+</section>
+<section id="discuss" class="level2">
+<h2 class="anchored" data-anchor-id="discuss">Discuss</h2>
+<ul>
+<li>At the webinar, your facilitators will lead a discussion about your experience of this exercise.</li>
+<li>If you are facilitating, please take a look at the <a href="https://nextcloud.dc.scilifelab.se/s/N2jT29zZaFe3qyc">Facilitation Guide</a>.</li>
+</ul>
+</section>
+<section id="next-level" class="level2">
+<h2 class="anchored" data-anchor-id="next-level">Next level</h2>
+<section id="five-optional-exercises-for-science-communication" class="level4">
+<h4 class="anchored" data-anchor-id="five-optional-exercises-for-science-communication">Five (optional!) exercises for science communication</h4>
+<p>If you’re interested in deepening your practice of science communication, here are five additional exercises:</p>
+<ol type="1">
+<li><p>Read the latest <a href="https://www.maxiv.lu.se/article/how-to-study-the-digestion-of-vegan-protein-in-real-time/">news article from MAX IV</a>. What AEIOU response do you have to this news piece?</p></li>
+<li><p>Read and save these <a href="https://www.staff.lu.se/research-and-education/research-support/communicate-your-research/principles-research-communication">Seven principles for research communication</a>, from Lund University.</p></li>
+<li><p>Watch Dr.&nbsp;Michelle Wong’s <a href="https://youtu.be/0bRpljNL7ro?si=ZtXz5DCMAv_8S5YC">deep dive into misrepresentation of expert opinion on social platforms</a>, or the ‘appeal to false authority’. Reflect on what sorts of science communication topics you are and are not able to address with your expertise.</p></li>
+<li><p>Find the contact information for your University’s press office, and look for information on what they require for a press release.</p></li>
+<li><p>Find three markets for science communication relevant to your field. As an example, for a microbiology project this could be <a href="https://theconversation.com/global">The Conversation</a>, <a href="https://www.the-microbiologist.com">The Microbiologist</a>, the <a href="https://schaechter.asmblog.org">Small Things Considered</a> blog, or the Swedish language magazine <a href="https://www.tidningencurie.se">Tidningen Curie</a>.</p></li>
+</ol>
+</section>
+<section id="citation" class="level3">
+<h3 class="anchored" data-anchor-id="citation">Citation</h3>
+<p>The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="assets/images/CCBY4.0.png" alt="" height="20"></a></p>
+<p>Please cite this material as:</p>
+<blockquote class="blockquote">
+<p>Hilner, E. and Schroeder, K. (2026). <em>SciLifeLab PULSE Transferrable Skills Training Session 1 - Science Communication</em>. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session1.html. DOI: (pending)</p>
+</blockquote>
+<p>If you use this material, we’d love to know! Get in touch with us at pulse.training@scilifelab.se</p>
+<hr>
+<div class="small">
+<p>Module published: Jan 16, 2026.</p>
+</div>
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1"><p>According to the AEIOU Framework used to evaluate Science Communication effectiveness, first published as <a href="https://doi.org/10.1177/09636625030122004">Burns, et al.&nbsp;2003</a><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>Source code adapted from <a href="">NBIS 2025</a> • <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    </div>
+    <div class="nav-footer-right">
+<p>Published with <a href="https://quarto.org/">Quarto</a> v1.4.550
+</p>
+</div>
+  </div>
+</footer>
+
+
+
+
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
+</body></html>

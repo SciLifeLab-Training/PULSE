@@ -1,7 +1,11 @@
 ---
-title: "Annual Meeting Session 4 - Entrepreneurial Mindset 101: Pitch a project"
-author: "PULSE TCDC"
-date: March 13, 2026
+title: "Session 4 - Entrepreneurial Mindset 101: Pitch a project"
+pagetitle: "Workshop session 4"
+date: ""
+format:
+  html:
+    toc: true
+    number-sections: false
 ---
 
 ::: {.callout-tip collapse="true"}
@@ -15,7 +19,7 @@ date: March 13, 2026
         <th>Foundational</th>
         <th>Intermediate</th>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">2. Show entrepreneurial spirit</th>
+        <th colspan="2" style="background-color: #A6CBCF">2. Show entrepreneurial spirit</th>
     </tr>
     <tr>
         <td>• Demonstrate initiative and seeks opportunities to create value with own research<br>
@@ -33,7 +37,7 @@ date: March 13, 2026
         <th>Foundational</th>
         <th>Intermediate</th>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">3. Manage intellectual property rights</th>
+        <th colspan="2" style="background-color: #A6CBCF">3. Manage intellectual property rights</th>
     </tr>
     <tr>
         <td>• Understands basic concepts of data ownership rules as they apply to own research</td>
@@ -114,3 +118,8 @@ Please cite this material as:
 > Blomqvist, B., Henningson Johnson, F., Moshfegh, A., Svensson, S., and Ridderstad Wollberg, A. (2026). *SciLifeLab PULSE Transferrable Skills Training Workshop 4 - Entrepreneurial Mindset 101: Pitch a project*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/workshop-s4.html. DOI: (pending)
 
 If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
+
+---
+::: small
+Module published: March 13, 2026
+:::

@@ -1,0 +1,32 @@
+---
+title: "Resources"
+pagetitle: "SciLifeLab PULSE • Resources"
+date: ""
+sidebar: false
+format:
+  html:
+    number-sections: false
+    toc: false
+---
+
+::: {.callout-tip}
+### Info
+Here are some tips to get started with the PULSE Transferrable Skills Training Program.
+:::
+
+## Building Scientific Influence
+
+Building a public-facing presence with influence can take time. If social media is a tool you are interested in to make contacts at conferences, communicate your research highlights, or follow scientific leaders, we suggest creating a Bluesky account^1^ and/or LinkedIn account. 
+
+Don't forget to follow SciLifeLab! [{{< fa brands bluesky >}}](https://bsky.app/profile/scilifelab.se) &nbsp; [{{< fa brands linkedin >}}](https://www.linkedin.com/company/scilifelab/).
+
+## Collaborate and Share
+
+We have set up a [Zotero library](https://www.zotero.org/groups/6236891/pulse_cohort1/library) for PULSE postdocs to collect citations during the Transferrable Skills Training Program. All citations used in the training material can be found in this library.
+
+We have added a few references and interesting articles on career assessment, ECR in Sweden, and the culture of science. Request an invitation to add articles you have found interesting for career development and leadership.
+
+## Citations
+
+1. D S Shiffman, J Wester, Scientists no Longer Find Twitter Professionally Useful, and have Switched to Bluesky, Integrative and Comparative Biology, Volume 65, Issue 3, September 2025, Pages 538–545, https://doi.org/10.1093/icb/icaf127
+

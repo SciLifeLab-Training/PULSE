@@ -1,7 +1,11 @@
 ---
-title: "Annual Meeting Session 1 - Beyond the Bench: Impact of Science on Industry, Policy & Society"
-author: "PULSE TCDC"
-date: March 10, 2026
+title: "Session 1 - Beyond the Bench: Impact of Science on Industry, Policy & Society"
+pagetitle: "Workshop session 1"
+date: ""
+format:
+  html:
+    toc: true
+    number-sections: false
 ---
 
 coming soon
@@ -14,3 +18,8 @@ Please cite this material as:
 > Hilner, E. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Session 1 - Science Communication*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session1.html. DOI: (pending)
 
 If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se -->
+
+---
+::: small
+Module published: March 10, 2026
+:::

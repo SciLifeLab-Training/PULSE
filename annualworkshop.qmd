@@ -1,10 +1,16 @@
 ---
-title: "PULSE Annual Workshop"
-author: "PULSE TCDC"
-date: today
+title: "Annual Workshop Overview"
+pagetitle: "SciLifeLab PULSE • Contents"
+description: "Workshop materials from the PULSE Annual Meetings"
+toc: false
+date: ""
+sidebar: false
+format:
+  html:
+    number-sections: false
+execute:
+  freeze: false
 ---
-
-### Welcome!
 
 ::: {.callout-tip}
 ### Info
@@ -24,3 +30,5 @@ The four transferrable skills sessions of the 2026 PULSE workshop were:
 
 
 The meeting also included one full day of research presentations and discussion to support interactions between group leaders, postdocs, and others.
+
+<!-- [[Slides {{< fa circle-chevron-right >}}]{.btn .btn-sm .btn-primary}](slides/index.html) [[Labs {{< fa circle-chevron-right >}}]{.btn .btn-sm .btn-primary}](labs/index.html) -->

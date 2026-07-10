@@ -1,35 +1,39 @@
 ---
-title: "Transferrable Skills Training"
-author: "PULSE TCDC"
-date: today
+title: "TST Webinar Schedule"
+pagetitle: "SciLifeLab PULSE • TST Webinars"
+date: ""
+format:
+  html:
+    toc: false
+    number-sections: false
+#    page-layout: full
 ---
 
-### Welcome!
+## Webinar themes
+The webinars will run on the second-last Friday of the month, afternoons at 14:00
+
+<summary><span style="font-size: 20px; font-weight: bold; color: #045C64;">Transferrable Skills Training Webinars - Year 1</span></summary>
+
+| Month | Theme | 
+|------|------|
+| 1 | **[Sustainable science communication](session1.qmd)** | 
+| 3 | **[Project management and research](session2.qmd)** | 
+| 5 | **[Open Data - Challenges and Possibilities](session3.qmd)** | 
+| 8 | **[Coping with Pressure](session4.qmd)** | 
+| 9 | **Alignment with Green Deal Policy** | 
+| 11 | **Detecting Exploitation Potential** | 
+: {tbl-colwidths="[15,85]"} 
+
+<br>
 
 ::: {.callout-tip}
 ### Info
 This program will evolve as it is implemented based on feedback from the cohort and other stakeholders! 
 :::
 
-## Webinar themes
-The webinars will run on Friday afternoons at 14:00
-
-<summary><span style="font-size: 20px; font-weight: bold; color: #A7C947;">Transferrable Skills Training Webinars - Year 1</span></summary>
-
-| Month | Theme | 
-|------|------|
-| 1 | **[Sustainable science communication](session1.qmd)** | 
-| 3 | **[Project management and research](session2)** | 
-| 5 | **[Open Data - Challenges and Possibilities](session3)** | 
-| 8 | **Coping with Pressure** | 
-| 9 | **Alignment with Green Deal Policy** | 
-| 11 | **Detecting Exploitation Potential** | 
-: {tbl-colwidths="[15,85]"} 
-
-<br>
 <br>
 <details>
-<summary><span style="font-size: 20px; font-weight: bold; color: #A7C947;">Transferrable Skills Training Webinars - Year 2</span></summary>
+<summary><span style="font-size: 20px; font-weight: bold; color: #045C64;">Transferrable Skills Training Webinars - Year 2</span></summary>
 
 | Month | Theme | 
 |------|------|
@@ -44,7 +48,7 @@ The webinars will run on Friday afternoons at 14:00
 </details>
 
 <details>
-<summary><span style="font-size: 20px; font-weight: bold; color: #A7C947;">Transferrable Skills Training Webinars - Year 3</span></summary>
+<summary><span style="font-size: 20px; font-weight: bold; color: #045C64;">Transferrable Skills Training Webinars - Year 3</span></summary>
 
 | Month | Theme | 
 |------|------|

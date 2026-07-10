@@ -1,7 +1,11 @@
 ---
 title: "Session 3 - Open Data: Challenges and Opportunties"
-author: "PULSE TCDC"
-date: May 13, 2026
+pagetitle: "SciLifeLab PULSE Training • Webinar 3"
+date: ""
+format:
+  html:
+    toc: true
+    number-sections: false
 ---
 
 ::: {.callout-tip collapse="false"}
@@ -15,7 +19,7 @@ date: May 13, 2026
         <th>Foundational</th>
         <th>Intermediate</th>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">1. Manage research data</th>
+        <th colspan="2" style="background-color: #A6CBCF">1. Manage research data</th>
     </tr>
     <tr>
         <td>• Identifies sources of information, and assesses if data is trustworthy, valid, reliable and pertinent.<br>
@@ -24,7 +28,7 @@ date: May 13, 2026
         • Trains and empowers other team members to work with data in a structured, transparent, and accessible way. </td>
     </tr>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">2. Promote citizen science</th>
+        <th colspan="2" style="background-color: #A6CBCF">2. Promote citizen science</th>
     </tr>
     <tr>
         <td>• Understands that citizens are knowledge-holders with the ability to contribute to the research process in some areas of research.</td>
@@ -39,7 +43,7 @@ date: May 13, 2026
 ## Learn
 Watch the following interview with Dr. Bastian Greshake Tzovaras, Independent Researcher in participatory research, who works with Open Data and governance of Open projects.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y4UpggpCB5M?si=DscHyiv9q83Ap0m0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/y4UpggpCB5M?si=DscHyiv9q83Ap0m0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 ## Practice
 
@@ -95,3 +99,8 @@ Please cite this material as:
 > Greshake Tzovaras, B., Luijten, I. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Session 3 - Open Data: Challenges and Opportunities*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session3.html. DOI: (pending)
 
 If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
+
+---
+::: small
+Module published: May 13, 2026
+:::

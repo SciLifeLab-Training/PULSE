@@ -1,7 +1,11 @@
 ---
-title: "Workshop 3 - Research Culture: Bias, Inclusivity, and Equality in Science"
-author: "PULSE TCDC"
-date: March 12, 2026
+title: "Session 3 - Research Culture: Bias, Inclusivity, and Equality in Science"
+pagetitle: "Workshop session 3"
+date: ""
+format:
+  html:
+    toc: true
+    number-sections: false
 ---
 
 ::: {.callout-tip collapse="true"}
@@ -16,28 +20,28 @@ date: March 12, 2026
         <th>Foundational</th>
         <th>Intermediate</th>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">1. Interact professionally</th>
+        <th colspan="2" style="background-color: #A6CBCF">1. Interact professionally</th>
     </tr>
     <tr>
         <td>• Listens to other people’s ideas with no prejudice</td>
         <td>• Embraces behaviours that foster effective and positive interactions with colleagues in a goal-oriented manner.</td>
     </tr>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">3. Work in teams</th>
+        <th colspan="2" style="background-color: #A6CBCF">3. Work in teams</th>
     </tr>
     <tr>
         <td>• Appreciate the impact of own behaviour on teamwork.</td>
         <td>• Understands own priorities and those of own coworkers, creates a cooperative work environment</td>
     </tr>
         <tr>
-        <th colspan="2" style="background-color: #D2C7D4">4. Ensure wellbeing at work</th>
+        <th colspan="2" style="background-color: #A6CBCF">4. Ensure wellbeing at work</th>
     </tr>
     <tr>
         <td>• Understands the link between work, physical and mental health, and wellbeing.</td>
         <td>• Assists colleagues manage pressure and stress and contributes to a healthy work environment.</td>
     </tr>
     <tr>
-        <th colspan="2" style="background-color: #D2C7D4">6. Promote inclusion and diversity</th>
+        <th colspan="2" style="background-color: #A6CBCF">6. Promote inclusion and diversity</th>
     </tr>
     <tr>
         <td>• Appreciates the importance of diversity and how it benefits complex research projects.<br>
@@ -85,10 +89,15 @@ References used in this material can be found in the PULSE [Zotero library](http
 
 
 ### Citation
-The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="/assets/images/CCBY4.0.png" alt="" height="20"/></a>
 
 Please cite this material as:
 
 >  Folkesson, K. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Workshop 3 - Research culture: Bias, Inclusivity, and Equality in Science*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/workshop-s3.html. DOI: (pending)
 
 If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
+
+---
+::: small
+Module published: March 12, 2026
+:::
