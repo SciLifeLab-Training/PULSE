@@ -8,16 +8,151 @@ format:
     number-sections: false
 ---
 
-coming soon
+::: {.callout-tip collapse="true"}
 
-<!-- ### Citation
+## ResearchComp competencies developed in this session
+### Making an Impact
+
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+                <tr>
+        <th colspan="2" style="background-color: #A6CBCF">4. Communicate to the broad public</th>
+    </tr>
+        <tr>
+        <td>• Understands and appreciates the value of engaging with the public.
+        </td>
+        <td>• Recognises the mutual benefit of public engagement in research.<br>
+        •  Contributes to promoting the public understanding of own research area.
+        </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">5. Increase the impact of science on policy and society</th>
+    </tr>
+    <tr>
+        <td>• Understands the policy-making processes relevant for own field of research <br>
+        • Understands the wider contexts in which policies are situated
+        </td>
+        <td>• Recognises the mutual importance of policy making and research.<br>
+        • Engages in dialogue with government institutions, stakeholders, and other key organizations.<br>
+        • Is aware of different approaches to knowledge brokering.
+        </td>
+    </tr>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">6. Promote open innovation</th>
+    </tr>
+        <tr>
+        <td>• Understands the role innovation, creativity, and collaboration with external partners in research.
+          <br> • Is open to collaboration with
+external partners.
+        </td>
+        <td>•  Develops new ways of collaborating with external partners on topics related to own research.
+        </td>
+        </tr>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">7. Promote the transfer of knowledge</th>
+    </tr>
+        <tr>
+        <td>• Appreciates the importance of knowledge exchange within society
+        </td>
+        <td>• Contributes to knowledge exchange within society.<br>
+        • Is aware of different approaches to knowledge brokering.
+        </td>
+    </tr>
+    <tr>
+</table>
+```
+:::
+
+### Structure
+This workshop addresses how research is translated to sectors outside academia, what is needed to lead this work, and what is valued by different sectors in Sweden. Participants will spend time:
+
+- discussing career transitions into other sectors
+- discussing collaboration between sectors
+- comparing perspectives on skills and careers across sectors
+- understanding how researchers can become involved in policy
+- understanding how researchers can become involved with participatory research
+
+**Learning outcomes:** By the end of this activity, participants will be able to describe how research can engage with industry, policy, and society, including listing factors for success and potential pitfalls.
+
+| Time | Format | Title |
+|------|------| ------| 
+| 75m | Panel discussion | [Panel Discussion](#panel-discussion) |
+| 25m | Group discussions | [Science and Industry](#science-and-industry) |
+| 25m | Interactive lecture | [Science and Policy](#science-and-policy) |
+| 25m | Interactive lecture | [Science and Society](#science-and-society) |
+: {tbl-colwidths="[10, 30, 60]"}
+
+### Panel discussion
+Representatives from five industry groups were assembled to answer questions from the postdoc cohort, including:
+
+- Magnus Gustafsson, [NorthX Biologics](https://www.nxbio.com)
+- Marjo Puumalainen, [SwedenBio](https://swedenbio.se)
+- Erik Litborn, [Vinnova](https://www.vinnova.se)
+- Anna Ridderstad Wollberg, [SciLifeLab Drug Discovery & Development platform](https://www.scilifelab.se/units/ddd-platform/)
+
+#### Panel Questions
+Postdocs were asked to submit questions for the panel ahead of time, and these were compiled into themes.
+
+::: {.callout-tip collapse="true"}
+
+## Questions
+1. Could you please briefly introduce yourself, your current position, and a ten-second description of your role?
+2. Could you tell us about your career path, or what led you to your current work? 
+3. How do you interact with research and researchers in your current work?
+4. What skills or competencies would you say have been critical to your success?
+5. What does research leadership mean to you?
+6. When transitioning from academic research to industry or innovation, what are some common misconceptions, differences, or difficulties encountered?
+7. There is a perception in academia that postdoctoral experience is considered “lost time” in industry. Is this accurate?
+8. Have you interacted with policymakers, and what has this experience been like?
+9. Do you have any advice for early-career researchers who want to create change or make their vision a reality?
+10. How would you like to see these postdocs bring their research “beyond the bench”?
+:::
+
+### Science and Industry
+**Activity:** Following the panel discussion, small groups continued the discussion on the following questions:
+
+1. Warm up: Introduce yourself. Share your name, research problem and favourite animal.
+2. Where does (or could!) your work connect with industry? What about with policy or society?
+3. Can you share a successful example of research work transitioning to industry? What factors do you think made it successful?
+4. Can you think of an unsuccessful example of research transitioning to industry or society? What are some factors that might have affected its success?
+5. What do you think are the biggest challenges facing science? Where is industry positioned well to help with these?
+
+**Large group discussions:** Following the small group discussion, groups were asked to share their discussion on one of the above questions.
+
+
+### Science and Policy, Science and Society
+**Activity:** Following the discussion on science and industry, two articles were discussed as interactive, journal club-style lectures. The first paper describes advice for academics wanting to become involved with policy[^1], and the second a framework for participatory research [^2]. The results of the [Orion Project](https://www.orion-openscience.eu)'s cross-European survey on public engagement with research were included in the discussion [^3].
+
+#### Science and Policy
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1yICLJuIvyDhw2zGn93r_R5EcmKDlABFS/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1yICLJuIvyDhw2zGn93r_R5EcmKDlABFS/export/pdf" target="_blank" rel="noopener">Workshop 1 - Science and Policy: Download PDF</a>
+
+[^1]: Oliver, K., & Cairney, P. The dos and don’ts of influencing policy: a systematic review of advice to academics. Palgrave Commun 5, 21 (2019). [https://doi.org/10.1057/s41599-019-0232-y](https://doi.org/10.1057/s41599-019-0232-y)
+
+
+#### Science and Society
+<iframe style="border: none;" title="Iframe Example" src="https://docs.google.com/presentation/d/1nVgE4UFyOZyTnSJlGIQTxnIhtgIRFioJ/preview" width="500" height="300" data-mce-fragment="1"></iframe>
+
+<a class="inline_disabled" href="https://docs.google.com/presentation/d/1nVgE4UFyOZyTnSJlGIQTxnIhtgIRFioJ/export/pdf" target="_blank" rel="noopener">Workshop 1 - Science and Society: Download PDF</a>
+
+[^2]: Lakomý, M., Bohlin, G., Hlavová, R., Macháčková, H., Bergman, M. & Lindholm, M. (2018). Public attitudes to life sciences research in six European countries (ORION project Deliverable No. 2.3). Stockholm: VA. Accessed via [Orion Open Science](https://www.orion-openscience.eu/publications/deliverables/201812/d23-public-attitudes-life-sciences-research-six-european-countries).
+
+[^3]: Murunga, M. Public engagement for social transformation: informing or empowering? Environ. Sci. Policy 132, 237–246 (2022). [https://doi.org/10.1016/j.envsci.2022.02.031](https://doi.org/10.1016/j.envsci.2022.02.031)
+
+References used in this material can be found in the PULSE [Zotero library](https://www.zotero.org/groups/6236891/pulse_cohort1/library)
+
+### Citation
 The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
 
 Please cite this material as:
 
-> Hilner, E. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Session 1 - Science Communication*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/session1.html. DOI: (pending)
+> Schroeder, K. (2026). SciLifeLab PULSE Transferrable Skills Training Workshop 1 - Beyond the Bench*. Retrieved from https://scilifelab-training.github.io/PULSE/0001/workshop-s1.html. DOI: (pending)
 
-If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se -->
+If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
 
 ---
 ::: small

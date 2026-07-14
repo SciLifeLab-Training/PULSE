@@ -32,16 +32,34 @@ format:
     </tr>
 </table>
 ```
-
-
+::: small
 **Note** since all PULSE postdocs have practiced the Foundational competencies by the nature of this program's mobility requirement, this session deals with ResearchComp competencies at the Intermediate/Advanced level.
+:::
 
+### Work with others
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">4. Ensure wellbeing at work</th>
+    </tr>
+    <tr>
+        <td>• Understands the link between work, physical and mental health, and wellbeing<br>
+• Uses support and advisory resources to avoid stress and pressure.</td>
+        <td>• Maintains a leveled work-life balance.
+<br>• Assists colleagues manage pressure and stress and contributes to a healthy work environment.</td>
+    </tr>
+    <tr>
+</table>
+```
 :::
 
 ## Learn
 Watch the following interview with Dr. Linda Kvastad, co-founder of [The Coaching in Science Initiative](https://www.thecoachinginscienceinitiative.org) and postdoctoral fellow at the Karolinska Institute.
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ne4HV3linvU?si=ItPgfGX-WzlP_2fZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ne4HV3linvU?si=s0PMw8irzlIMmXMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 ## Practice
 
