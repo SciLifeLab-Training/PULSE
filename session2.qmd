@@ -118,7 +118,7 @@ If you're interested in deepening your practice of project management, here are 
 ### Citation
 The video from this session is available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
 
-The module activity and Research Project Management tools are created by P. Alison Paprica and are used under <a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="CC-BY"><img src="img/by-nc.png" alt="" height="20"/></a>
+The module activity and Research Project Management tools are created by P. Alison Paprica and are used under <a href="https://creativecommons.org/licenses/by-nc/4.0/" rel="CC-BY"><img src="assets/images/by-nc.png" alt="" height="20"/></a>
 
 Please cite this material as:
 

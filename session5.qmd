@@ -1,0 +1,136 @@
+---
+title: "Session 5 - Sustainability in Research"
+pagetitle: "SciLifeLab PULSE Training • Webinar 5"
+date: ""
+format:
+  html:
+    toc: true
+    number-sections: false
+---
+
+::: {.callout-tip collapse="false"}
+
+## ResearchComp competencies developed in this session
+
+### Self-Management
+
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">3. Plan self-organization</th>
+    </tr>
+    <tr>
+        <td>• Is aware of how work-related activities affect the environment</td>
+        <td>• Actively seeks out environmentally friendly alternatives for work-related activities<br></td>
+    </tr>
+</table>
+```
+### Cognitive Abilities
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">5. Systemic thinking</th>
+    </tr>
+    <tr>
+        <td>• Understands the national and international landscape of own discipline.<br>
+        </td>
+        <td>• Understands the research landscape and the complex interaction between its actors, beyond own discipline.<br>
+</td>
+        <td> </td>
+    </tr>
+    <tr>
+</table>
+```
+
+:::
+
+## Learn
+Watch the following interview with Dr. Philipp Weber, Sustainability Officer at EMBO.
+
+<!-- <p align="center"><iframe width="560" height="315" src="VID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+-->
+
+::: small
+(coming soon)
+:::
+
+::: {.callout-tip}
+KTH is an institution registered for early access of [SPARKHub](https://sparkhub.eu), so if this is your host university you can register!
+:::
+
+## Practice
+
+::: {.callout-note}
+
+The work of this practice exercise should take a maximum of 1 hour.
+
+:::
+
+#### Step 1 - The MSCA Green Charter
+The [MSCA Green Charter](https://op.europa.eu/publication-detail/-/publication/d8e5b75a-ae2d-11f0-89c6-01aa75ed71a1) is a policy document governing projects funded by the Marie Skłodowska-Curie Actions. There is additionally published guidance material for researchers that can be accessed [here](https://op.europa.eu/en/publication-detail/-/publication/a6c6c39f-af00-11f0-89c6-01aa75ed71a1/language-en). Read the MSCA Green Charter and **Section 2: Research practices and resource-intensive research settings** (pages 8-11) from the guidance material. 
+
+From the Green Charter guidance material (Section 2), identify: 
+
+- one recommendation you follow well 
+- one recommendation where you could improve
+
+#### Step 2 - Use a resource from SPARKHub to assess your own sustainable practices
+
+Visit [SPARKHub Training and Guidance](https://sparkhub.eu/training-and-guidance/) or the [SPARKHub Calculators page](https://sparkhub.eu/calculators/) and choose one of the following activities:
+
+1. Do a protocol audit by following the steps in the [Sustainable Laboratory Plastics Handbook](https://plasticshandbook.sparkhub.eu/auditing-and-redesigning-protocols). Please note that you do not have to read through all the case studies and supplemental materials, but do answer the main questions posed by steps 1-6.
+
+2. [Use the Green Algorithms Calculator](https://calculator.green-algorithms.org) to determine the number of tree-months one of your computational jobs uses. Change one factor (computing location, number of cores, runtime, memory) and determine how much the environmental impact changes.
+
+#### Step 3 - Evaluate your findings
+Reflect on what you have learned from this exercise: 
+
+- Did you find it easy or difficult to complete this activity? 
+- Did this activity affect how you would implement sustainable practices in your lab, either now or in the future? 
+- What support is provided by your host University to enable these?
+
+## Discuss
+-	At the webinar, your facilitators will lead a discussion about your experience of this exercise.
+- If you are facilitating, please take a look at the [Facilitation Guide](https://nextcloud.dc.scilifelab.se/s/N2jT29zZaFe3qyc).
+
+## Next level
+#### Five (optional!) exercises for sustainable research
+If you're interested in deepening your practice of research sustainability, here are five additional exercises:
+
+1. Read the [Heidelberg Agreement](https://zenodo.org/records/13938809), and look at the list of organizations endorsing the agreement. Would your future lab pursue certification to be competitive for grant applications?
+
+2. Visit the website for the UN's [Sustainable Development Goals](https://sdgs.un.org/goals). Which of the 17 goals does your research project help to develop?
+
+3. In [this article from Rae et al.](https://doi.org/10.1177/23982128221075430), a group of neuroscientists describe how recycling liquid helium used in MRI and MEG scanners has been an important advance in the sustainability of their field. Does your field use techniques that generate difficult wastes or require specialized chemicals that would be good targets for new sustainability practices?
+
+4. Find the website of the Sustainability Office of your host University. What certifications or recommendations do they have for your research work? 
+
+5. Choose an article from this reading list and take it to an upcoming journal club in your department:
+
+- Weber, P.M., Michelsen, C. & Kerou, M. **What’s in our bin?**. EMBO Rep 26, 297–302 (2025). [https://doi.org/10.1038/s44319-024-00360-x](https://doi.org/10.1038/s44319-024-00360-x)
+
+- De Paepe, M., Jeanneau, L., Mariette, J., Aumont, O., & Estevez-Torres, A. **Purchases dominate the carbon footprint of research laboratories**. PLOS Sustain Transform, 3(7):e0000116. (2024). [https://doi.org/10.1371/journal.pstr.0000116](https://doi.org/10.1371/journal.pstr.0000116)
+
+- Lannelongue, L., Aronson, HE.G., Bateman, A. et al. **GREENER principles for environmentally sustainable computational science.** Nat Comput Sci 3, 514–521 (2023). [https://doi.org/10.1038/s43588-023-00461-y](https://doi.org/10.1038/s43588-023-00461-y)
+
+- Lopez, J. B., Jackson, D., Gammie, A., & Badrick, T.  **Reducing the Environmental Impact of Clinical Laboratories.** The Clinical biochemist. Reviews, 38(1), 3–11. (2017). [https://pmc.ncbi.nlm.nih.gov/articles/PMC5548370/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5548370/)
+
+### Citation
+The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="assets/images/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite this material as:
+
+> Weber, P.M. and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Session 5 - Sustainability in Research*. Retrieved from https://scilifelab-training.github.io/PULSE/session5.html. DOI: (pending)
+
+If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
+
+---
+::: small
+Module published: Sep 18, 2026
+:::

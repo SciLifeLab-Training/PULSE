@@ -29,6 +29,7 @@ website:
           - session2.qmd
           - session3.qmd
           - session4.qmd 
+          - session5.qmd
         aria-label: "TST Webinars"
       - text: "Annual Meeting"
         menu:

@@ -20,7 +20,7 @@ The webinars will run on the second-last Friday of the month, afternoons at 14:0
 | 3 | **[Project management and research](session2.qmd)** | 
 | 5 | **[Open Data - Challenges and Possibilities](session3.qmd)** | 
 | 8 | **[Coping with Pressure](session4.qmd)** | 
-| 9 | **Alignment with Green Deal Policy** | 
+| 9 | **[Sustainability in Research](session5.qmd)** | 
 | 11 | **Detecting Exploitation Potential** | 
 : {tbl-colwidths="[15,85]"} 
 
