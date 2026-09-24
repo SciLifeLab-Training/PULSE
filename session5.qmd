@@ -53,8 +53,8 @@ format:
 ## Learn
 Watch the following interview with Dr. Philipp Weber, Sustainability Officer at EMBO.
 
-<!-- <p align="center"><iframe width="560" height="315" src="VID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
--->
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/RaUlfuUPZXo?si=HGVcfPuAg7pEwXIx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
 
 ::: small
 (coming soon)
