@@ -146,7 +146,7 @@ Postdocs were asked to submit questions for the panel ahead of time, and these w
 References used in this material can be found in the PULSE [Zotero library](https://www.zotero.org/groups/6236891/pulse_cohort1/library)
 
 ### Citation
-The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="img/CCBY4.0.png" alt="" height="20"/></a>
+The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="/assets/images/CCBY4.0.png" alt="" height="20"/></a>
 
 Please cite this material as:
 
