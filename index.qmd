@@ -28,7 +28,7 @@ execute:
 
 The SciLifeLab Program for Future Leaders in Life Science (PULSE) is a Marie Skłodowska-Curie Actions COFUND program designed to connect early-career researchers with opportunities and skills that support long-term career sustainability across sectors. 
 
-<p align="center">[[Cohort 1 Site {{< fa circle-chevron-right >}}]{.btn .btn-sm .btn-primary}](cohort1/TSTwebinars.html) [[Cohort 2 Site {{< fa circle-chevron-right >}}]{.btn .btn-sm .btn-primary}](https://scilifelab-training.github.io/PULSE2/)</p>
+<p align="center">[[Cohort 1 Site {{< fa circle-chevron-right >}}]{.btn .btn-sm .btn-primary}](TSTwebinars.qmd) [[Cohort 2 Site {{< fa circle-chevron-right >}}]{.btn .btn-sm .btn-primary}](https://scilifelab-training.github.io/PULSE2/)</p>
 
 The PULSE training program has been developed using the [European Competency Framework for Researchers](https://research-and-innovation.ec.europa.eu/jobs-research/researchcomp-european-competence-framework-researchers_en) (ResearchComp). This website contains all training modules and resources developed and delivered in the PULSE program.
 
