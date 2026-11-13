@@ -1,0 +1,158 @@
+---
+title: "Session 6 - Detecting Exploitation Potential"
+pagetitle: "SciLifeLab PULSE Training • Webinar 6"
+date: ""
+format:
+  html:
+    toc: true
+    number-sections: false
+---
+
+::: {.callout-tip collapse="false"}
+
+## ResearchComp competencies developed in this session
+
+### Making an Impact
+
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">7. Promote the transfer of knowledge</th>
+    </tr>
+    <tr>
+        <td>• Understands the process of commercial exploitation of research results.<br>
+        • Appreciates the importance of knowledge exchange within society.</td>
+        <td>• Develops research ideas with the aims to commercialise them.<br></td>
+    </tr>
+</table>
+```
+### Self-management
+```{=html}
+<table>
+    <tr>
+        <th>Foundational</th>
+        <th>Intermediate</th>
+    <tr>
+        <th colspan="2" style="background-color: #A6CBCF">2. Show entrepreneurial spirit</th>
+    </tr>
+    <tr>
+        <td>• Understands the potential of commercialising academic research.
+        </td>
+        <td>• Actively and persistently pursues opportunities to create value with own research.<br>
+        • Takes calculated risks and performs iterations and tests to get feedback on new ideas.
+</td>
+        <td> </td>
+    </tr>
+    <tr>
+</table>
+```
+
+:::
+
+## Learn
+For this session we have interviews with startup co-founders Dr. Theo Serivichyaswat, co-founder and CEO of [GenomeVault](https://www.genomevault.net), and Dr. Elin Cartwright, co-founder and CEO of [Abstract](https://www.myabstract.co/en). 
+
+
+<!-- <p align="center"><iframe width="560" height="315" src="VIDEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+-->
+
+::: small
+Coming soon.
+:::
+
+## Practice
+
+::: {.callout-note}
+
+The work of this practice exercise should take a maximum of 30 minutes.
+
+:::
+#### Step 1. Why care about exploitation potential?
+
+Reflect on the interviews - particularly where Theo talks about making technology accessible outside academia and Elin describes her team's motivation to solve the logistical problems inherent in research. 
+
+- Did these stories match or challenge your views of what entrepreneurial exploitation is? 
+- Were you aware of incubators and funding for research sector startups?
+
+#### Step 2. Defining exploration and exploitation
+
+Entrepreneurial process is an entire research field, but in 2017, Kuckertz et al.[^1] defined activities of exploration (sometimes called opportunity recognition) and exploitation based on a survey of academics. 
+
+They identified six activities associated with each:
+
+::: {.callout}
+| Activity | Example | Question | 
+|-----|---------| ---------|
+| 1. Searching     | Regularly scanning your field or environment for opportunities | *What other startups or businesses are there in my field or area?* |
+| 2. Being alert     | Having an open mind to the possibility of developing your research as an entrepreneur | *Could this finding or knowledge be applied in a startup setting?* |
+| 3. Gathering information      | Getting information on startups, looking at new products and services | *How might this idea be put into practice?*
+| 4. Communicating      | Talking to friends, colleagues, other entrepreneurs, innovation offices etc. about your idea | *What do you think about this idea?* |
+| 5. Problem solving     | Solving a problem experienced by researchers, patients, or other population segments | *How could my research or knowledge make things easier or better for others?* |
+| 6. Evaluating       | Assessing if your idea is feasible to move forward with | *Can I take the next step with my/my team's current skills, knowledge, and abilities?* |
+
+: Exploration activities, from Kuckertz et al., 2017
+:::
+
+After testing the validity of these activities in pools of entrepreneurs and refinement of their model, the authors conclude that **Searching**, **Being alert**, and **Gathering information** are the activities that most clearly define opportunity recognition, or detecting exploitation potential.
+
+#### Step 2. Are you detecting exploitation potential?
+In a further survey, the authors linked engaging in exploration activities with being an entrepreneur. In the following self-test, evaluate how strongly you engage with detecting exploitation potential in your work.
+
+::: {.callout-tip}
+## Self-test
+
+On a Likert scale (1 to 5, where 1 is strongly agree and 5 is strongly disagree), how much do you agree with the following questions?
+
+1. I am always alert for opportunities to connect my research with industry.
+2. I understand the potential markets that my research connects to.
+3. I review my findings systematically for opportunities to connect with industry. 
+4. I look for information about new ideas on products or services that are relevant in my research field.
+5. I regularly scan my environment for business opportunities.
+:::
+
+Record your answers.
+
+#### Step 3. Evaluation - The Harvard Business School Framework
+In the article by Kuckertz et al., the activity of Evaluation fell between exploitation and exploration, as an activity that bridges the two processes. 
+
+In their analytical framework for assessing entrepreneurial opportunties[^2], the Harvard Business School has 31 questions divided into a business section and a personal section to help potential entrepreneurs decide to proceed with their opportunity or not.
+
+Read through the **personal analysis section** [(questions 21-31)](https://drive.google.com/file/d/14HGVse3kpSmSjF_MKjHQIV8f9-Ms8-4-/view?usp=sharing). Do you recognize any aspects of this decision framework in how you approach you own career, project, or other major decisions?
+
+[^2]: Stevenson, Howard H., and Shirley Spence. "Identifying and Exploiting the Right Entrepreneurial Opportunity...For You." Harvard Business School Background Note 808-043, December 2007. (Revised June 2009.)
+
+## Discuss
+-	At the webinar, your facilitators will lead a discussion about your experience of this exercise.
+- If you are facilitating, please take a look at the [Facilitation Guide](https://nextcloud.dc.scilifelab.se/s/N2jT29zZaFe3qyc).
+
+## Next level
+#### Five (optional!) exercises for detecting exploitation potential
+
+1. Schedule time in your calendar to prepare and submit an entry to the [2027 VentureCup contest](https://www.venturecup.se/en/), which opens in September. Bonus points for submitting together with another PULSE postdoc!
+
+2. The [Stockholm School of Entrepreneurship (SSES)](https://www.sses.se) writes a "Research Recap" where they write about research from the entrepreneurship field. Read [this recap](https://learninglab.sses.se/research-recaps/an-activist-turn-in-entrepreneurship-education/) about refocusing entrepreneurship on activism and transforming systems.
+
+3. Remember [Workshop 2](workshop-s2.qmd) of our 2026 annual meeting, where we played the business ethics game? Read [this paper](https://doi.org/10.1177/10422587241227072) by its creator, Gustav Hägg on making responsible choices as an entrepreneur in the exploration phase -- and how Elisabeth Holmes could have made better decisions.
+
+4. What other startups in Sweden are there in your field? Follow two startups on your socials (BlueSky, LinkedIn, Mastodon, etc.)
+
+5. Kuckertz et al. also identified six activities associated with exploitation - Understanding customers/markets, Planning the business, **Acquiring human resources, Setting up the organization, Developing a product/service, and Gathering resources**. Rewatch the interviews and see if you can identify the twelve activities of exploration and exploitation in Theo and Elin's stories.
+
+[^1]: [Kuckertz et al., 2017](https://doi.org/10.1108/IJEBR-12-2015-0290)
+
+### Citation
+The materials from this session are available for reuse under <a href="https://creativecommons.org/licenses/by/4.0/" rel="CC-BY"><img src="assets/images/CCBY4.0.png" alt="" height="20"/></a>
+
+Please cite this material as:
+
+> Serivichyaswat, T., Cartwright, E., and Schroeder, K. (2026). *SciLifeLab PULSE Transferrable Skills Training Session 6 - Detecting Exploitation Potential*. Retrieved from https://scilifelab-training.github.io/PULSE/session6.html. DOI: (pending)
+
+If you use this material, we'd love to know! Get in touch with us at pulse.training@scilifelab.se
+
+---
+::: small
+Module published: Nov 13, 2026
+:::
