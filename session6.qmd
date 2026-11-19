@@ -56,12 +56,10 @@ format:
 For this session we have interviews with startup co-founders Dr. Theo Serivichyaswat, co-founder and CEO of [GenomeVault](https://www.genomevault.net), and Dr. Elin Cartwright, co-founder and CEO of [Abstract](https://www.myabstract.co/en). 
 
 
-<!-- <p align="center"><iframe width="560" height="315" src="VIDEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
--->
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/fqyDHJbkHO8?si=nyTk3ppUMO5KE-jk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggfobDBBAbI?si=8pm3EgEWN8-cBh7X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
-::: small
-Coming soon.
-:::
 
 ## Practice
 
